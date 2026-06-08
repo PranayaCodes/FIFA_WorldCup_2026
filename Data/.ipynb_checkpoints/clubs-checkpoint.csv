@@ -1,0 +1,1379 @@
+team_id,club,team_elo,league,country,last_played,best_player,best_player_elo
+42,Arsenal,2528,Premier League,England,2026-05-30,David Raya,2767.9
+50,Manchester City,2527,Premier League,England,2026-05-24,Matheus Nunes,2790.3
+157,Bayern München,2521,Bundesliga,Germany,2026-05-23,L. Díaz,2706.7
+66,Aston Villa,2476,Premier League,England,2026-05-24,E. Konsa,2635.9
+529,Barcelona,2431,La Liga,Spain,2026-05-23,Pedri,2831.9
+85,Paris Saint Germain,2427,Ligue 1,France,2026-05-30,A. Hakimi,2676.6
+33,Manchester United,2416,Premier League,England,2026-05-24,B. Mbeumo,2584.8
+51,Brighton,2409,Premier League,England,2026-05-24,F. Kadıoğlu,2594.0
+40,Liverpool,2407,Premier League,England,2026-05-24,Alisson Becker,2580.0
+35,Bournemouth,2405,Premier League,England,2026-05-24,Đ. Petrović,2588.0
+541,Real Madrid,2396,La Liga,Spain,2026-05-23,T. Alexander-Arnold,2639.0
+49,Chelsea,2377,Premier League,England,2026-05-24,Marc Cucurella,2559.8
+228,Sporting CP,2345,Primeira Liga,Portugal,2026-05-24,Gonçalo Inácio,2556.9
+165,Borussia Dortmund,2336,Bundesliga,Germany,2026-05-16,J. Ryerson,2513.1
+47,Tottenham,2329,Premier League,England,2026-05-24,C. Gallagher,2483.8
+55,Brentford,2328,Premier League,England,2026-05-24,N. Collins,2446.9
+34,Newcastle,2318,Premier League,England,2026-05-24,J. Willock,2439.9
+746,Sunderland,2314,Premier League,England,2026-05-24,N. Sadiki,2534.2
+63,Leeds,2289,Premier League,England,2026-05-24,I. Meslier,2470.6
+2929,Al-Ahli Jeddah,2286,Saudi Pro League,Saudi Arabia,2026-04-25,Galeno,2586.7
+36,Fulham,2283,Premier League,England,2026-05-24,S. Berge,2466.5
+45,Everton,2279,Premier League,England,2026-05-24,J. Grealish,2525.7
+2932,Al-Hilal Saudi FC,2275,Saudi Pro League,Saudi Arabia,2026-04-13,T. Hernández,2627.3
+168,Bayer Leverkusen,2271,Bundesliga,Germany,2026-05-16,E. Tapsoba,2415.7
+530,Atletico Madrid,2270,La Liga,Spain,2026-05-24,D. Hancko,2491.5
+212,FC Porto,2263,Primeira Liga,Portugal,2026-05-16,Diogo Costa,2723.1
+197,PSV Eindhoven,2259,Eredivisie,Netherlands,2026-05-17,G. Til,2510.7
+65,Nottingham Forest,2257,Premier League,England,2026-05-24,O. Aina,2443.3
+611,Fenerbahçe,2254,Süper Lig,Turkey,2026-05-17,Ederson,2559.0
+172,VfB Stuttgart,2232,Bundesliga,Germany,2026-05-23,A. Nübel,2366.6
+173,RB Leipzig,2231,Bundesliga,Germany,2026-05-16,R. Baku,2404.1
+91,Monaco,2231,Ligue 1,France,2026-05-17,T. Kehrer,2366.4
+2938,Al-Ittihad FC,2231,Saudi Pro League,Saudi Arabia,2026-04-17,S. Bergwijn,2389.5
+2933,Al-Qadisiyah FC,2225,Saudi Pro League,Saudi Arabia,2026-02-23,Otávio,2444.2
+48,West Ham,2224,Premier League,England,2026-05-24,A. Disasi,2407.9
+645,Galatasaray,2213,Süper Lig,Turkey,2026-05-17,V. Osimhen,2400.7
+543,Real Betis,2212,La Liga,Spain,2026-05-23,Antony,2349.5
+211,Benfica,2210,Primeira Liga,Portugal,2026-05-16,A. Trubin,2390.5
+121,Palmeiras,2208,Paulista - A1,Brazil,2026-05-31,J. Arias,2364.0
+531,Athletic Club,2202,La Liga,Spain,2026-05-23,Nico Williams,2444.5
+533,Villarreal,2198,La Liga,Spain,2026-05-24,Sergi Cardona,2345.9
+496,Juventus,2194,Serie A,Italy,2026-05-24,J. David,2385.5
+167,1899 Hoffenheim,2191,Bundesliga,Germany,2026-05-16,K. Machida,2473.9
+79,Lille,2190,Ligue 1,France,2026-05-17,H. Haraldsson,2303.8
+569,Club Brugge KV,2187,Pro League,Belgium,2026-05-24,J. Ordoñez,2376.3
+895,Como,2171,Serie A,Italy,2026-05-24,J. Butez,2564.6
+52,Crystal Palace,2168,Premier League,England,2026-05-27,W. Benítez,2403.6
+1393,Union St. Gilloise,2161,Pro League,Belgium,2026-05-24,K. Mac Allister,2501.6
+94,Rennes,2159,Ligue 1,France,2026-05-17,B. Samba,2383.5
+596,Zenit,2152,Premier Liga,Russia,2026-05-17,Luiz Henrique,2429.7
+160,SC Freiburg,2149,Bundesliga,Germany,2026-05-20,P. Lienhart,2431.1
+57,Ipswich,2147,Championship,England,2026-05-02,A. Matusiwa,2255.2
+116,Lens,2143,Ligue 1,France,2026-05-22,Saud Abdulhamid,2375.3
+538,Celta Vigo,2141,La Liga,Spain,2026-05-23,C. Starfelt,2432.7
+164,FSV Mainz 05,2141,Bundesliga,Germany,2026-05-16,S. Posch,2355.4
+499,Atalanta,2141,Serie A,Italy,2026-05-22,O. Kossounou,2429.6
+1346,Coventry,2137,Championship,England,2026-05-02,B. Thomas,2273.0
+127,Flamengo,2133,Série A,Brazil,2026-05-30,Michael,2395.5
+41,Southampton,2131,Championship,England,2026-05-12,T. Harwood-Bellis,2301.0
+548,Real Sociedad,2128,La Liga,Spain,2026-05-23,Mikel Oyarzabal,2406.5
+492,Napoli,2124,Serie A,Italy,2026-05-24,David Neres,2470.5
+497,AS Roma,2121,Serie A,Italy,2026-05-24,E. Ndicka,2429.3
+2939,Al-Nassr,2120,Saudi Pro League,Saudi Arabia,2026-05-16,K. Coman,2496.2
+58,Millwall,2120,Championship,England,2026-05-11,J. Cooper,2298.6
+80,Lyon,2118,Ligue 1,France,2026-05-17,A. Maitland-Niles,2313.1
+489,AC Milan,2115,Serie A,Italy,2026-05-24,F. Tomori,2451.7
+532,Valencia,2113,La Liga,Spain,2026-05-23,Javi Guerra,2249.6
+621,FC Krasnodar,2111,Premier Liga,Russia,2026-05-17,Diego Costa,2218.0
+549,Beşiktaş,2110,Süper Lig,Turkey,2026-05-15,O. Kökçü,2327.7
+81,Marseille,2109,Ligue 1,France,2026-05-17,B. Pavard,2273.2
+553,Olympiakos Piraeus,2109,Super League 1,Greece,2026-05-17,M. Taremi,2246.9
+505,Inter,2107,Serie A,Italy,2026-05-23,M. Akanji,2536.1
+247,Celtic,2098,Premiership,Scotland,2026-05-16,A. Johnston,2360.4
+727,Osasuna,2094,La Liga,Spain,2026-05-23,Aimar Oroz,2299.2
+170,FC Augsburg,2094,Bundesliga,Germany,2026-05-16,F. Dahmen,2234.2
+169,Eintracht Frankfurt,2088,Bundesliga,Germany,2026-05-16,R. Kristensen,2318.7
+500,Bologna,2088,Serie A,Italy,2026-05-23,João Mário,2363.2
+64,Hull City,2085,Championship,England,2026-05-23,C. Hughes,2247.9
+71,Norwich,2084,Championship,England,2026-05-02,J. Córdoba,2248.8
+575,AEK Athens FC,2083,Super League 1,Greece,2026-05-17,C. Stanković,2357.6
+539,Levante,2082,La Liga,Spain,2026-05-23,M. Ryan,2369.8
+39,Wolves,2082,Premier League,England,2026-05-24,José Sá,2320.3
+209,Feyenoord,2079,Eredivisie,Netherlands,2026-05-17,T. Wellenreuther,2320.7
+487,Lazio,2076,Serie A,Italy,2026-05-23,Patric,2334.2
+44,Burnley,2074,Premier League,England,2026-05-24,C. Roberts,2285.0
+114,Paris FC,2074,Ligue 1,France,2026-05-17,D. Coppola,2292.4
+728,Rayo Vallecano,2071,La Liga,Spain,2026-05-27,A. Rațiu,2310.3
+95,Strasbourg,2061,Ligue 1,France,2026-05-17,G. Doué,2338.2
+546,Getafe,2060,La Liga,Spain,2026-05-23,David Soria,2185.8
+182,Union Berlin,2059,Bundesliga,Germany,2026-05-16,Diogo Leite,2220.3
+70,Middlesbrough,2055,Championship,England,2026-05-23,H. Hackney,2165.9
+175,Hamburger SV,2053,Bundesliga,Germany,2026-05-16,N. Capaldo,2223.1
+564,Başakşehir,2051,Süper Lig,Turkey,2026-05-16,A. Harit,2242.0
+998,Trabzonspor,2050,Süper Lig,Turkey,2026-05-22,A. Onana,2446.9
+415,Twente,2048,Eredivisie,Netherlands,2026-05-17,R. Zerrouki,2260.8
+994,Göztepe,2045,Süper Lig,Turkey,2026-05-16,M. Lis,2187.4
+619,PAOK,2045,Super League 1,Greece,2026-05-17,G. Taylor,2268.4
+547,Girona,2044,La Liga,Spain,2026-05-23,M. ter Stegen,2439.7
+207,Utrecht,2044,Eredivisie,Netherlands,2026-05-24,S. El Karouani,2168.5
+162,Werder Bremen,2043,Bundesliga,Germany,2026-05-16,M. Wöber,2318.1
+3603,Samsunspor,2043,Süper Lig,Turkey,2026-05-16,Ľ. Šatka,2286.4
+502,Fiorentina,2039,Serie A,Italy,2026-05-22,J. Harrison,2260.6
+536,Sevilla,2036,La Liga,Spain,2026-05-23,O. Vlachodimos,2274.0
+2870,Shabab Al Ahli Dubai,2036,Pro League,UAE,2026-05-16,Renan,2274.7
+798,Mallorca,2034,La Liga,Spain,2026-05-23,V. Muriqi,2177.0
+2895,Al Sadd,2034,Stars League,Qatar,2026-04-27,Rafa Mujica,2186.7
+54,Birmingham,2030,Championship,England,2026-05-02,B. Osayi-Samuel,2232.7
+194,Ajax,2028,Eredivisie,Netherlands,2026-05-24,O. Zinchenko,2319.3
+1379,Lincoln,2028,League One,England,2026-05-02,C. McGrandles,2129.4
+290,Kashima,2022,J1 League,Japan,2026-06-06,T. Hayakawa,2231.7
+69,Derby,2021,Championship,England,2026-05-02,M. Clarke,2218.0
+96,Toulouse,2020,Ligue 1,France,2026-05-10,M. McKenzie,2204.0
+735,St. Truiden,2018,Pro League,Belgium,2026-05-24,L. Lapoussin,2208.5
+126,Sao Paulo,2018,Paulista - A1,Brazil,2026-05-31,Wendell,2326.5
+174,FC Schalke 04,2016,2. Bundesliga,Germany,2026-05-17,T. Becker,2166.0
+131,Corinthians,2014,Paulista - A1,Brazil,2026-05-30,Matheus Bidu,2150.5
+794,RB Bragantino,2013,Paulista - A1,Brazil,2026-05-31,Juninho Capixaba,2187.9
+161,VfL Wolfsburg,2012,Bundesliga,Germany,2026-05-25,J. Lindstrøm,2171.2
+84,Nice,2008,Ligue 1,France,2026-05-29,Y. Ndayishimiye,2259.5
+303,Machida Zelvia,2005,J1 League,Japan,2026-06-06,K. Hayashi,2218.2
+540,Espanyol,2004,La Liga,Spain,2026-05-23,O. El Hilali,2222.7
+512,Frosinone,2003,Serie B,Italy,2026-05-08,G. Calò,2183.7
+201,AZ Alkmaar,2003,Eredivisie,Netherlands,2026-05-17,S. Maikuma,2172.0
+617,Panathinaikos,2002,Super League 1,Greece,2026-05-17,D. Calabria,2301.7
+542,Alaves,1998,La Liga,Spain,2026-05-23,Guevara,2148.3
+9568,Inter Miami,1996,MLS,USA,2026-05-24,Micael,2255.8
+797,Elche,1995,La Liga,Spain,2026-05-23,D. Affengruber,2247.7
+217,SC Braga,1995,Primeira Liga,Portugal,2026-05-16,G. Lagerbielke,2231.8
+558,Spartak Moscow,1992,Premier Liga,Russia,2026-05-17,A. Djiku,2171.8
+2940,Al Shabab,1991,Saudi Pro League,Saudi Arabia,2026-02-27,J. Brownhill,2172.8
+163,Borussia Mönchengladbach,1990,Bundesliga,Germany,2026-05-16,N. Elvedi,2160.7
+517,Venezia,1981,Serie B,Italy,2026-05-08,G. Busio,2113.9
+76,Swansea,1981,Championship,England,2026-05-02,C. Burgess,2138.1
+503,Torino,1980,Serie A,Italy,2026-05-24,A. Ismajli,2178.7
+242,Famalicao,1973,Primeira Liga,Portugal,2026-05-16,Sorriso,2132.4
+607,Konyaspor,1970,Süper Lig,Turkey,2026-05-22,B. Kutlu,2256.8
+1837,Wrexham,1968,Championship,England,2026-05-02,R. Longman,2041.6
+124,Fluminense,1967,Série A,Brazil,2026-05-31,Martinelli,2271.4
+651,Ferencvarosi TC,1964,NB I,Hungary,2026-05-16,G. Kanichowsky,2195.3
+180,1. FC Heidenheim,1963,Bundesliga,Germany,2026-05-16,J. Schöppner,2085.9
+2934,Al-Ettifaq,1960,Saudi Pro League,Saudi Arabia,2026-02-27,M. Rodák,2129.4
+397,FC Midtjylland,1960,Superliga,Denmark,2026-05-17,P. Billing,2156.1
+210,Heerenveen,1958,Eredivisie,Netherlands,2026-05-21,J. van Overeem,2143.7
+494,Udinese,1956,Serie A,Italy,2026-05-24,J. Ekkelenkamp,2250.9
+550,Shakhtar Donetsk,1956,Premier League,Ukraine,2026-05-21,M. Matvienko,2245.3
+1007,Rizespor,1955,Süper Lig,Turkey,2026-05-15,S. Akaydin,2189.2
+46,Leicester,1954,Championship,England,2026-05-02,H. Souttar,2167.0
+1088,Dynamo,1951,Premier Liga,Russia,2026-05-17,A. Lunev,2142.1
+556,Qarabag,1951,Premyer Liqa,Azerbaijan,2026-05-22,Leandro Andrade,2156.3
+435,River Plate,1950,Liga Profesional,Argentina,2026-05-24,G. Montiel,2279.2
+257,Rangers,1948,Premiership,Scotland,2026-05-16,A. Skov Olsen,2150.1
+631,Gent,1947,Pro League,Belgium,2026-05-31,S. Van der Heyden,2158.7
+413,NEC Nijmegen,1946,Eredivisie,Netherlands,2026-05-17,K. Sano,2122.2
+1660,SV Elversberg,1946,2. Bundesliga,Germany,2026-05-17,N. Kristof,2122.3
+2904,Al-Duhail SC,1943,Stars League,Qatar,2026-04-27,Tuta,2352.2
+606,FC Lugano,1943,Super League,Switzerland,2026-05-17,A. Saipi,2061.7
+1357,Plymouth,1942,League One,England,2026-05-02,A. Mitchell,2112.7
+62,Sheffield Utd,1941,Championship,England,2026-05-02,M. Cooper,2088.6
+97,Lorient,1940,Ligue 1,France,2026-05-17,M. Talbi,2214.8
+1374,Mansfield Town,1939,League One,England,2026-05-02,L. Roberts,2197.3
+135,Cruzeiro,1938,Série A,Brazil,2026-05-31,Gerson,2231.7
+347,Lech Poznan,1938,Ekstraklasa,Poland,2026-05-23,A. Kozubal,2029.3
+1579,Monza,1937,Serie B,Italy,2026-05-29,M. Pessina,2124.8
+120,Botafogo,1937,Série A,Brazil,2026-05-30,Danilo,2253.7
+2936,Al Taawon,1933,Saudi Pro League,Saudi Arabia,2026-02-24,Mailson,2223.6
+106,Stade Brestois 29,1931,Ligue 1,France,2026-05-17,K. Doumbia,2098.9
+597,Lokomotiv,1931,Premier Liga,Russia,2026-05-17,A. Karpukas,2058.9
+488,Sassuolo,1928,Serie A,Italy,2026-05-24,A. Murić,2220.5
+185,SC Paderborn 07,1928,2. Bundesliga,Germany,2026-05-25,F. Bilbija,2105.3
+630,FC Sion,1927,Super League,Switzerland,2026-05-17,K. Hajrizi,2163.5
+1011,FC ST. Gallen,1926,Super League,Switzerland,2026-05-17,H. Vandermersch,2069.7
+2931,Al-Fateh,1925,Saudi Pro League,Saudi Arabia,2026-02-26,M. Vargas,2324.6
+128,Santos,1924,Paulista - A1,Brazil,2026-05-30,A. Frías,2115.4
+637,Sturm Graz,1924,Bundesliga,Austria,2026-05-17,J. Gazibegović,2180.4
+254,Heart Of Midlothian,1923,Premiership,Scotland,2026-05-16,S. Findlay,2098.2
+1026,Lask Linz,1922,Bundesliga,Austria,2026-05-17,A. Andrade,2083.8
+176,VfL Bochum,1922,2. Bundesliga,Germany,2026-05-17,M. Bero,2092.0
+56,Bristol City,1921,Championship,England,2026-05-02,R. Atkinson,2054.3
+1355,Portsmouth,1921,Championship,England,2026-05-02,C. Chaplin,2113.8
+68,Bolton,1921,League One,England,2026-05-24,G. Johnston,2116.3
+620,Dinamo Zagreb,1917,HNL,Croatia,2026-05-23,D. Livaković,2559.6
+7848,Mirassol,1917,Paulista - A1,Brazil,2026-05-30,João Victor,2097.5
+2897,Al-Rayyan SC,1917,Stars League,Qatar,2026-04-27,A. Mitrović,2298.7
+1616,Los Angeles FC,1917,MLS,USA,2026-05-25,S. Eustáquio,2286.9
+202,Groningen,1914,Eredivisie,Netherlands,2026-05-21,M. Rente,2080.3
+3589,Fatih Karagümrük,1913,Süper Lig,Turkey,2026-05-16,I. Lichnovsky,2163.1
+555,CSKA Moscow,1913,Premier Liga,Russia,2026-05-17,Matheus Reis,2242.4
+38,Watford,1912,Championship,England,2026-05-02,E. Bove,2174.6
+192,1. FC Köln,1911,Bundesliga,Germany,2026-05-16,A. Castro-Montes,2282.3
+186,FC St. Pauli,1911,Bundesliga,Germany,2026-05-16,M. Rasmussen,2164.6
+1595,Seattle Sounders,1909,MLS,USA,2026-05-25,A. Roldan,2150.2
+60,West Brom,1907,Championship,England,2026-05-02,N. Phillips,2032.1
+16489,Austin,1907,MLS,USA,2026-05-23,F. Torres,2157.0
+1603,Vancouver Whitecaps,1906,MLS,USA,2026-05-24,S. Berhalter,2263.9
+1359,Luton,1905,League One,England,2026-05-02,I. Jones,2176.7
+43,Cardiff,1901,League One,England,2026-05-02,G. Osho,2049.1
+560,Slavia Praha,1900,Czech Liga,Czech Republic,2026-05-24,T. Holeš,2258.1
+867,Lecce,1899,Serie A,Italy,2026-05-24,A. Gallo,2091.2
+72,QPR,1898,Championship,England,2026-05-02,R. Kone,2060.5
+119,Internacional,1897,Série A,Brazil,2026-05-31,S. Rochet,2169.0
+1607,Chicago Fire,1897,MLS,USA,2026-05-24,J. Bamba,2212.3
+565,BSC Young Boys,1897,Super League,Switzerland,2026-05-17,J. Hadjam,2023.4
+1062,Atletico-MG,1896,Série A,Brazil,2026-05-31,Renan Lodi,2380.8
+451,Boca Juniors,1896,Liga Profesional,Argentina,2026-05-09,M. Weigandt,2176.8
+718,Oviedo,1895,La Liga,Spain,2026-05-23,E. Bailly,2145.8
+1612,Minnesota United FC,1895,MLS,USA,2026-05-23,D. Callender,2198.2
+339,Legia Warszawa,1894,Ekstraklasa,Poland,2026-05-23,K. Piątkowski,2074.0
+181,SV Darmstadt 98,1894,2. Bundesliga,Germany,2026-05-17,K. Klefisch,2022.9
+1004,Kasımpaşa,1892,Süper Lig,Turkey,2026-05-17,İ. Kahveci,2192.8
+1335,Charlton,1892,Championship,England,2026-05-02,H. Clarke,2066.1
+130,Gremio,1892,Série A,Brazil,2026-05-30,Weverton,2174.3
+191,Holstein Kiel,1892,2. Bundesliga,Germany,2026-05-17,J. Tolkin,2044.3
+327,Bodo/Glimt,1891,Eliteserien,Norway,2026-05-29,H. Evjen,2371.0
+2865,Al Ain,1891,Pro League,UAE,2026-05-16,M. Ratnik,2079.7
+1123,Aris Thessalonikis,1889,Super League 1,Greece,2026-05-17,G. Athanasiadis,2168.1
+108,Auxerre,1885,Ligue 1,France,2026-05-17,S. Diomandé,2070.3
+495,Genoa,1885,Serie A,Italy,2026-05-24,J. Bijlow,2271.3
+3402,Omonia Nicosia,1885,1. Division,Cyprus,2026-05-22,R. Mmaee,2050.1
+59,Preston,1884,Championship,England,2026-05-02,T. Small,2052.2
+166,Hannover 96,1884,2. Bundesliga,Germany,2026-05-17,M. Bundu,2013.2
+554,Anderlecht,1883,Pro League,Belgium,2026-05-24,C. Huerta,2086.2
+2242,FC Cincinnati,1882,MLS,USA,2026-05-23,R. Celentano,2253.7
+10513,NEOM,1881,Saudi Pro League,Saudi Arabia,2026-02-25,M. Bułka,2183.6
+2944,Al-Fayha,1879,Saudi Pro League,Saudi Arabia,2026-02-25,O. Mosquera,2038.2
+9569,Nashville SC,1879,MLS,USA,2026-05-24,M. Woledzi,2085.8
+571,Red Bull Salzburg,1877,Bundesliga,Austria,2026-05-17,Z. Junuzović,2073.0
+522,Palermo,1876,Serie B,Italy,2026-05-20,M. Bani,2095.4
+348,Pogon Szczecin,1871,Ekstraklasa,Poland,2026-05-23,A. Szalai,2315.7
+3491,Raków Częstochowa,1869,Ekstraklasa,Poland,2026-05-23,P. Dawidowicz,2065.6
+2903,Al-Gharafa,1867,Stars League,Qatar,2026-04-27,F. Díaz,2048.1
+249,Hibernian,1866,Premiership,Scotland,2026-05-16,J. Iredale,2174.1
+604,Maccabi Tel Aviv,1866,Ligat Ha'al,Israel,2026-05-19,O. Davida,2097.6
+2928,Al Khaleej Saihat,1864,Saudi Pro League,Saudi Arabia,2026-02-27,A. Moris,2297.6
+427,Telstar,1864,Eredivisie,Netherlands,2026-05-17,R. Koeman,2031.6
+632,Universitatea Craiova,1862,Liga I,Romania,2026-05-25,A. Mekvabishvili,2146.2
+2905,Al-Arabi SC,1860,Stars League,Qatar,2026-04-27,Pablo Sarabia,2112.9
+2402,Gyori ETO FC,1860,NB I,Hungary,2026-05-16,D. Štefulj,2012.9
+1604,New York City FC,1859,MLS,USA,2026-05-24,H. Wolf,2113.6
+563,Hapoel Beer Sheva,1859,Ligat Ha'al,Israel,2026-05-23,K. Kangwa,2157.2
+598,FK Crvena Zvezda,1857,Super Liga,Serbia,2026-05-22,S. Eraković,2200.7
+171,1. FC Nürnberg,1857,2. Bundesliga,Germany,2026-05-17,J. Justvan,2018.6
+67,Blackburn,1856,Championship,England,2026-05-02,N. Redmond,2089.3
+473,Independ. Rivadavia,1855,Liga Profesional,Argentina,2026-05-10,S. Villa,2190.3
+2871,Al-Jazira,1855,Pro League,UAE,2026-05-16,Willyan Rocha,2120.8
+159,Hertha BSC,1855,2. Bundesliga,Germany,2026-05-17,J. Brooks,2148.1
+745,1. FC Kaiserslautern,1854,2. Bundesliga,Germany,2026-05-17,A. Touré,2163.4
+1348,Milton Keynes Dons,1854,League Two,England,2026-05-02,W. Collar,1979.4
+336,Jagiellonia,1853,Ekstraklasa,Poland,2026-05-23,Álex Pozo,2013.8
+118,Bahia,1852,Série A,Brazil,2026-05-30,Gilberto,2119.9
+111,Le Havre,1851,Ligue 1,France,2026-05-17,L. Gourna-Douath,2055.8
+4204,Home United,1850,Premier League,Singapore,2026-05-17,L. Tan,2008.7
+450,Estudiantes L.P.,1847,Liga Profesional,Argentina,2026-05-10,G. Benedetti,2092.1
+158,Fortuna Düsseldorf,1847,2. Bundesliga,Germany,2026-05-17,C. Lenz,2029.2
+738,SK Beveren,1847,Challenger Pro League,Belgium,2026-04-17,B. Godeau,2076.5
+1600,Houston Dynamo,1846,MLS,USA,2026-05-24,M. Bogusz,2250.7
+133,Vasco DA Gama,1845,Série A,Brazil,2026-05-31,C. Cuesta,2232.9
+83,Nantes,1844,Ligue 1,France,2026-05-08,A. Sylla,2068.2
+240,Arouca,1841,Primeira Liga,Portugal,2026-05-16,Javi Sánchez,1981.0
+997,Gençlerbirliği S.K.,1841,Süper Lig,Turkey,2026-05-17,S. Koïta,2008.5
+1083,Rubin,1841,Premier Liga,Russia,2026-05-17,V. Hodža,2010.3
+296,Yokohama F. Marinos,1841,J1 League,Japan,2026-06-06,R. Tsunoda,2136.0
+1597,FC Dallas,1838,MLS,USA,2026-05-24,H. Johansson,2089.8
+436,Racing Club,1837,Liga Profesional,Argentina,2026-05-13,M. Di Cesare,2081.2
+628,Sparta Praha,1837,Czech Liga,Czech Republic,2026-05-24,A. Sørensen,2103.3
+748,Burton Albion,1836,League One,England,2026-05-02,A. Hartridge,1955.4
+230,Estoril,1834,Primeira Liga,Portugal,2026-05-16,Xeka,2075.1
+205,Fortuna Sittard,1833,Eredivisie,Netherlands,2026-05-17,D. Limnios,2074.7
+410,GO Ahead Eagles,1833,Eredivisie,Netherlands,2026-05-17,A. Sampsted,2071.0
+458,Argentinos JRS,1833,Liga Profesional,Argentina,2026-05-17,L. Lozano,2140.9
+75,Stoke City,1830,Championship,England,2026-05-02,J. Tchamadeu,2027.8
+1613,Columbus Crew,1830,MLS,USA,2026-05-24,M. Amundsen,2029.9
+2523,Johor Darul Takzim FC,1829,Super League,Malaysia,2026-05-10,Arif Aiman Hanapi,2096.5
+2184,Servette FC,1828,Super League,Switzerland,2026-05-16,B. Mazikou,2006.4
+1370,Cambridge United,1828,League Two,England,2026-05-02,K. Watts,1957.3
+20787,St. Louis City,1827,MLS,USA,2026-05-23,D. Edelman,2263.1
+196,Excelsior,1826,Eredivisie,Netherlands,2026-05-17,A. Zagré,1918.0
+1617,Portland Timbers,1825,MLS,USA,2026-05-24,J. Caicedo,2063.9
+287,Urawa,1825,J1 League,Japan,2026-06-06,Danilo Boza,2009.2
+183,Dynamo Dresden,1825,2. Bundesliga,Germany,2026-05-17,T. Schreiber,1936.3
+3579,Amed,1825,1. Lig,Turkey,2026-05-02,M. Diagne,1948.0
+6343,Çorum FK,1825,1. Lig,Turkey,2026-05-24,J. Attamah,1935.4
+762,GIL Vicente,1824,Primeira Liga,Portugal,2026-05-16,G. Konan,2118.6
+1596,San Jose Earthquakes,1824,MLS,USA,2026-05-24,T. Werner,2254.2
+292,FC Tokyo,1824,J1 League,Japan,2026-06-06,Kim Seung-Gyu,1996.2
+18310,Charlotte,1823,MLS,USA,2026-05-23,L. de la Torre,2105.2
+644,FC Luzern,1823,Super League,Switzerland,2026-05-16,A. Bajrami,2008.9
+1137,Atletico Nacional,1822,Primera A,Colombia,2026-06-03,D. Ospina,2070.0
+438,Velez Sarsfield,1821,Liga Profesional,Argentina,2026-05-11,Á. Montero,2140.1
+996,Alanyaspor,1820,Süper Lig,Turkey,2026-05-16,Z. Feddal,2055.8
+4686,Stockport County,1820,League One,England,2026-05-24,C. Addai,2000.8
+1356,Blackpool,1820,League One,England,2026-05-02,F. Horsfall,1960.6
+7411,Kocaelispor,1818,Süper Lig,Turkey,2026-05-17,B. Balogh,2042.6
+1605,Los Angeles Galaxy,1818,MLS,USA,2026-05-24,J. Haak,2093.7
+2737,Tractor Sazi,1818,Persian Gulf Pro League,Iran,2026-04-14,A. Beiranvand,1979.8
+37,Huddersfield,1817,League One,England,2026-05-02,J. Low,2025.9
+785,Karlsruher SC,1817,2. Bundesliga,Germany,2026-05-17,C. Kobald,1959.2
+179,1. FC Magdeburg,1817,2. Bundesliga,Germany,2026-05-17,D. Reimann,1962.5
+93,Reims,1817,Ligue 2,France,2026-05-09,M. Daramy,2026.9
+608,HNK Hajduk Split,1815,HNL,Croatia,2026-05-22,Hugo Guillamón,2115.8
+13976,Sabah FA,1815,Premyer Liqa,Azerbaijan,2026-05-22,T. Puchacz,2049.5
+957,Levadiakos,1814,Super League 1,Greece,2026-05-17,E. Çokaj,2009.0
+188,Arminia Bielefeld,1814,2. Bundesliga,Germany,2026-05-17,R. Knoche,1996.0
+2872,Al-Wasl FC,1813,Pro League,UAE,2026-05-15,Adryelson,2120.5
+1615,DC United,1810,MLS,USA,2026-05-23,S. Nealis,2147.8
+445,Huracan,1810,Liga Profesional,Argentina,2026-05-13,C. Ibáñez,2082.3
+1338,Oxford United,1809,Championship,England,2026-05-02,B. Davies,2050.7
+1009,Erzurumspor FK,1809,1. Lig,Turkey,2026-05-02,G. Giorbelidze,1972.5
+134,Atletico Paranaense,1808,Série A,Brazil,2026-05-30,Santos,2184.3
+4360,Celje,1808,1. SNL,Slovenia,2026-05-22,Ž. Karničnik,2082.1
+77,Angers,1807,Ligue 1,France,2026-05-17,C. Arcus,2049.4
+53,Reading,1807,League One,England,2026-05-02,D. Williams,1966.2
+1350,Peterborough,1807,League One,England,2026-05-02,T. O'Connor,2168.0
+1687,Catanzaro,1806,Serie B,Italy,2026-05-29,M. Pigliacelli,1980.0
+420,Cambuur,1806,Eerste Divisie,Netherlands,2026-04-24,T. Jansen,1983.1
+426,Sparta Rotterdam,1805,Eredivisie,Netherlands,2026-05-17,P. van Aanholt,2088.5
+3403,Pafos,1804,1. Division,Cyprus,2026-05-22,David Goldar,1977.5
+523,Parma,1801,Serie A,Italy,2026-05-24,E. Del Prato,2133.5
+2875,Al Wahda FC,1801,Pro League,UAE,2026-05-16,Jadsom Silva,2153.7
+508,Bari,1800,Serie B,Italy,2026-05-22,G. De Pieri,1989.6
+7865,São Bernardo,1800,Paulista - A1,Brazil,2026-06-07,Jemerson,2018.4
+759,Viking,1799,Eliteserien,Norway,2026-05-24,P. Christiansen,2179.0
+453,Independiente,1799,Liga Profesional,Argentina,2026-05-10,R. Rey,2002.8
+833,Shanghai Shenhua,1799,Super League,China,2026-05-30,Jiang Shenglong,2057.5
+256,Motherwell,1798,Premiership,Scotland,2026-05-16,C. Slattery,1930.6
+456,Talleres Cordoba,1797,Liga Profesional,Argentina,2026-05-09,Unknown (6223),2201.5
+1001,Kayserispor,1795,Süper Lig,Turkey,2026-05-17,M. Hosseini,2089.2
+1012,FC Thun,1795,Super League,Switzerland,2026-05-17,J. Bamert,1941.1
+490,Cagliari,1794,Serie A,Italy,2026-05-24,E. Caprile,2251.7
+294,Kawasaki Frontale,1794,J1 League,Japan,2026-06-06,Jesiel,2011.9
+1358,Wycombe,1794,League One,England,2026-05-02,D. Casey,1944.8
+551,FC Basel 1893,1793,Super League,Switzerland,2026-05-17,K. Tsunemoto,2070.8
+1373,Leyton Orient,1792,League One,England,2026-05-02,J. Simpson,1926.1
+2246,CFR 1907 Cluj,1792,Liga I,Romania,2026-05-22,K. Zouma,2080.0
+1608,Atlanta United FC,1791,MLS,USA,2026-05-24,E. Báez,1881.4
+1153,Independiente del Valle,1791,Liga Pro,Ecuador,,M. Carabajal,2076.8
+747,Barnsley,1790,League One,England,2026-05-02,E. O'Connell,1996.9
+601,Austria Vienna,1790,Bundesliga,Austria,2026-05-17,J. Eggestein,1987.6
+1354,Doncaster,1789,League One,England,2026-05-02,J. Sterry,1927.7
+566,Ludogorets,1789,First League,Bulgaria,2026-05-29,J. Andersson,1922.1
+12260,Atromitos,1787,Super League 1,Greece,2026-05-21,T. Tsingaras,1954.4
+5050,Kifisia,1787,Super League 1,Greece,2026-05-21,L. Amani,2151.6
+2916,Al Shamal,1786,Stars League,Qatar,2026-04-27,Mohammed Waad,2051.3
+340,Gornik Zabrze,1786,Ekstraklasa,Poland,2026-05-23,Josema Sánchez,1923.6
+5648,Chengdu Better City,1786,Super League,China,2026-05-30,Rômulo,2123.0
+840,Henan Jianye,1786,Super League,China,2026-05-30,Wang Guoming,1868.6
+7402,Esenler Erokspor,1786,1. Lig,Turkey,2026-05-24,F. Nzaba,1965.7
+1324,VfL Osnabrück,1786,3. Liga,Germany,2026-05-16,J. Müller,2011.0
+4724,Alverca,1785,Primeira Liga,Portugal,2026-05-16,Lincoln,2026.0
+1079,Krylia Sovetov,1784,Premier Liga,Russia,2026-05-17,N. Chernov,1954.3
+2900,Al Wakrah,1783,Stars League,Qatar,2026-04-27,Luis Alberto,2041.6
+2762,Jeonbuk Motors,1783,K League 1,South Korea,2026-05-17,Song Bum-Keun,2072.4
+25484,San Diego,1782,MLS,USA,2026-05-24,C. McVey,2252.4
+224,Guimaraes,1780,Primeira Liga,Portugal,2026-05-16,João Mendes,2221.6
+6496,Polessya,1779,Premier League,Ukraine,2026-05-24,V. Shepelev,2021.8
+400,FC Copenhagen,1779,Superliga,Denmark,2026-05-21,Aurélio Buta,2115.3
+723,Almeria,1779,Segunda División,Spain,2026-06-06,Fernando Martínez,2046.9
+2874,Sharjah FC,1778,Pro League,UAE,2026-05-15,M. Marega,2042.8
+1602,New York Red Bulls,1777,MLS,USA,2026-05-24,D. Nealis,2164.4
+4203,Geylang International,1777,Premier League,Singapore,2026-04-26,S. Yokoyama,2061.0
+1606,Real Salt Lake,1776,MLS,USA,2026-05-23,L. Engel,2336.7
+154,Fortaleza EC,1776,Serie B,Brazil,2026-05-30,E. Brítez,2033.5
+4665,Racing Santander,1774,Segunda División,Spain,2026-05-31,Peio Canales,2094.8
+3588,Eyüpspor,1773,Süper Lig,Turkey,2026-05-17,J. Onguéné,2145.0
+614,AEK Larnaca,1773,1. Division,Cyprus,2026-05-22,H. Miličević,1976.1
+446,Lanus,1771,Liga Profesional,Argentina,2026-05-10,S. Marcich,2031.4
+779,FC Rostov,1770,Premier Liga,Russia,2026-05-17,M. Mohebi,1909.9
+1844,Salford City,1770,League Two,England,2026-05-25,M. Rose,1860.9
+281,Kashiwa Reysol,1769,J1 League,Japan,2026-06-06,T. Koyamatsu,1955.4
+853,CSKA Sofia,1769,First League,Bulgaria,2026-05-25,Facundo Santiago Rodríguez,2104.7
+147,Coritiba,1768,Série A,Brazil,2026-05-30,Breno Lopes,2126.9
+3583,Bodrum FK,1768,1. Lig,Turkey,2026-05-15,A. Aytemur,2046.8
+1124,OFI,1767,Super League 1,Greece,2026-05-17,A. Poungouras,1925.3
+178,SpVgg Greuther Fürth,1767,2. Bundesliga,Germany,2026-05-26,N. Gießelmann,1912.5
+544,Deportivo La Coruna,1766,Segunda División,Spain,2026-05-31,Adrià Alti,2082.6
+535,Malaga,1766,Segunda División,Spain,2026-06-07,Alfonso Herrero,2139.0
+2323,Universidad de Chile,1766,Primera División,Chile,,G. Castellón,2076.0
+2329,A. Italiano,1766,Primera División,Chile,,G. Guiffrey,2070.6
+2766,FC Seoul,1766,K League 1,South Korea,2026-05-16,Song Min-Kyu,1959.0
+6962,Widzew Łódź,1765,Ekstraklasa,Poland,2026-05-23,Carlos Isaac,1998.4
+836,SHANGHAI SIPG,1765,Super League,China,2026-05-29,Jiang Guangtai,2049.4
+437,Rosario Central,1764,Liga Profesional,Argentina,2026-05-16,E. Coronel,2177.5
+744,Eintracht Braunschweig,1764,2. Bundesliga,Germany,2026-05-17,L. Tempelmann,1903.3
+1614,CF Montreal,1763,MLS,USA,2026-05-23,T. Avilés,2027.7
+1832,Bromley,1762,League Two,England,2026-05-02,G. Smith,1991.5
+195,Willem II,1762,Eerste Divisie,Netherlands,2026-05-20,J. Hoogma,1881.6
+440,Belgrano Cordoba,1761,Liga Profesional,Argentina,2026-05-24,A. Maldonado,2100.7
+572,Dynamo Kyiv,1760,Premier League,Ukraine,2026-05-24,M. Shaparenko,1974.3
+2315,Colo Colo,1760,Primera División,Chile,,S. Rodríguez,1987.7
+10155,Al Nasr,1758,Pro League,UAE,2026-05-15,H. Seferović,2067.6
+1301,Rodez,1758,Ligue 2,France,2026-05-15,K. Nagera,2022.0
+2348,Penarol,1757,Primera División - Apertura,Uruguay,2025-06-28,L. Fernández,2069.9
+4248,Radomiak Radom,1755,Ekstraklasa,Poland,2026-05-23,J. Blasco,1905.9
+1368,Stevenage,1755,League One,England,2026-05-13,L. James-Wildin,1875.0
+452,Tigre,1754,Liga Profesional,Argentina,2026-05-03,T. Cardona,2138.4
+1343,Bradford,1754,League One,England,2026-05-14,B. Pointon,1892.1
+722,Albacete,1754,Segunda División,Spain,2026-05-30,Carlos Neva,2074.6
+567,Plzen,1752,Czech Liga,Czech Republic,2026-05-24,L. Červ,1929.4
+602,Apollon Limassol,1752,1. Division,Cyprus,2026-05-22,Bruno Gaspar,2074.6
+1135,Junior,1752,Primera A,Colombia,2026-06-03,G. Paiva,2006.1
+1345,Chesterfield,1752,League Two,England,2026-05-15,R. Stirk,1922.9
+460,San Lorenzo,1751,Liga Profesional,Argentina,2026-05-10,G. Abrego,2027.4
+781,Rapid Vienna,1751,Bundesliga,Austria,2026-05-25,N. Hedl,1914.0
+1334,Bristol Rovers,1751,League Two,England,2026-05-02,K. Balmer,1935.9
+10509,Al Kholood,1749,Saudi Pro League,Saudi Arabia,2026-02-24,Hamdan Al Shamrani,2024.5
+1005,Antalyaspor,1747,Süper Lig,Turkey,2026-05-17,C. Luyindama,1939.0
+545,Eibar,1747,Segunda División,Spain,2026-05-31,Sergio Cubero,1986.1
+198,ADO Den Haag,1746,Eerste Divisie,Netherlands,2026-04-24,K. Nikiéma,1911.4
+3573,Gaziantep FK,1745,Süper Lig,Turkey,2026-05-16,T. Sanuç,1935.6
+646,Levski Sofia,1745,First League,Bulgaria,2026-05-25,K. Dimitrov,1961.4
+1085,Akhmat,1744,Premier Liga,Russia,2026-05-17,K. Cake,2019.6
+1313,Preußen Münster,1743,2. Bundesliga,Germany,2026-05-17,P. Jaeckel,2039.5
+407,Brondby,1743,Superliga,Denmark,2026-05-21,B. Tahirović,1936.6
+498,Sampdoria,1742,Serie B,Italy,2026-05-08,G. Coucke,1958.1
+2599,Universitatea Cluj,1742,Liga I,Romania,2026-05-23,E. Gertmonas,1936.2
+82,Montpellier,1741,Ligue 2,France,2026-05-09,C. Jullien,2036.3
+511,Empoli,1740,Serie B,Italy,2026-05-08,M. De Sciglio,1939.9
+657,Beitar Jerusalem,1740,Ligat Ha'al,Israel,2026-05-23,B. Carabalí,1885.7
+215,Moreirense,1739,Primeira Liga,Portugal,2026-05-16,Fabiano,2104.9
+2896,Al Ahli Doha,1739,Stars League,Qatar,2026-04-27,M. Vlap,1979.6
+1609,New England Revolution,1739,MLS,USA,2026-05-23,M. Turner,2201.2
+266,KV Mechelen,1738,Pro League,Belgium,2026-05-24,F. Hammar,1873.1
+1610,Colorado Rapids,1738,MLS,USA,2026-05-24,R. Holding,2143.6
+1351,Port Vale,1737,League One,England,2026-05-02,L. Gordon,1942.3
+2780,Buriram United,1737,Thai League 1,Thailand,2026-05-10,S. Walsh,1907.4
+863,Juve Stabia,1734,Serie B,Italy,2026-05-19,A. Giorgini,1935.8
+1369,Barnet,1734,League Two,England,2026-05-02,R. Crichlow-Noble,1919.1
+844,Shandong Luneng,1733,Super League,China,2026-05-30,Gao Zhunyi,2048.4
+534,Las Palmas,1732,Segunda División,Spain,2026-06-07,Mika Màrmol,2018.0
+370,Sirius,1732,Allsvenskan,Sweden,2026-05-30,R. Ure,1897.4
+110,Estac Troyes,1732,Ligue 2,France,2026-05-09,M. Diop,1919.9
+1376,Notts County,1732,League Two,England,2026-05-25,J. Bedeau,1877.5
+193,PEC Zwolle,1731,Eredivisie,Netherlands,2026-05-17,S. Floranus,1834.9
+2432,Barracas Central,1731,Liga Profesional,Argentina,2026-05-02,R. Insúa,1993.3
+4195,Maccabi Haifa,1731,Ligat Ha'al,Israel,2026-05-23,J. Bataille,1979.0
+104,RED Star FC 93,1731,Ligue 2,France,2026-05-12,G. Poussin,1929.0
+574,Vardar Skopje,1730,First League,Macedonia,2026-05-15,D. Taleski,1884.9
+1598,Orlando City SC,1728,MLS,USA,2026-05-23,I. Angulo,2059.0
+61,Wigan,1728,League One,England,2026-05-02,B. Adeeko,1830.7
+3484,GKS Katowice,1726,Ekstraklasa,Poland,2026-05-23,E. Jirka,1872.9
+112,Metz,1725,Ligue 1,France,2026-05-17,H. Diallo,1927.1
+2006,Baltika,1725,Premier Liga,Russia,2026-05-17,E. Ćivić,1990.6
+1601,Toronto FC,1724,MLS,USA,2026-05-24,B. Kuscevic,2038.2
+4256,Grazer AK,1724,Bundesliga,Austria,2026-05-16,D. Pines,1921.5
+3584,Bandırmaspor,1724,1. Lig,Turkey,2026-05-02,H. Çiftçi,1916.3
+656,Slovan Bratislava,1724,Super Liga,Slovakia,2026-05-16,A. Šporar,1931.0
+136,Vitoria,1723,Série A,Brazil,2026-05-30,Cacá,2162.9
+1025,Wolfsberger AC,1723,Bundesliga,Austria,2026-05-19,E. Omić,1875.6
+2540,Universitario,1723,Primera División,Peru,,J. Concha,2045.5
+1577,Al Ahly,1723,Premier League,Egypt,2026-05-20,Trézéguet,1856.8
+830,Beijing Guoan,1722,Super League,China,2026-05-30,U. Spajić,2006.8
+7834,Novorizontino,1721,Paulista - A1,Brazil,2026-05-31,Jordi,1932.2
+2699,Mamelodi Sundowns,1721,Premier Soccer League,South Africa,2026-05-24,B. León,2004.6
+151,Goias,1719,Serie B,Brazil,2026-05-30,Lucas Ribeiro,2001.4
+1158,LDU de Quito,1719,Liga Pro,Ecuador,,F. Cornejo,2005.9
+2750,Daejeon Citizen,1719,K League 1,South Korea,2026-05-16,Kim Bong-Soo,1878.9
+343,Lechia Gdansk,1718,Ekstraklasa,Poland,2026-05-23,A. Paulsen,1886.1
+457,Newells Old Boys,1718,Liga Profesional,Argentina,2026-05-04,B. Cabrera,2062.5
+1139,Santa Fe,1718,Primera A,Colombia,2026-05-24,A. Mosquera,1919.1
+837,Tianjin Teda,1716,Super League,China,2026-05-31,Wu Xinghan,1851.0
+945,Melbourne City,1714,A-League,Australia,2026-03-10,N. Atkinson,1868.2
+226,Rio Ave,1713,Primeira Liga,Portugal,2026-05-16,A. Ntoi,1908.2
+1064,Platense,1710,Liga Profesional,Argentina,2026-05-03,L. Heredia,1931.3
+2767,Ulsan Hyundai FC,1710,K League 1,South Korea,2026-05-17,Lee Dong-Gyeong,1973.8
+5354,Larne,1710,Premiership,Northern Ireland,2026-03-28,R. Ferguson,1986.3
+4259,Alemannia Aachen,1708,3. Liga,Germany,2026-05-16,M. Riemann,2036.0
+2994,U. Catolica,1707,Primera División,Chile,,T. Asta-Buruaga,1972.2
+2330,Coquimbo Unido,1707,Primera División,Chile,,S. Galani,2134.8
+1063,Saint Etienne,1707,Ligue 2,France,2026-05-29,J. Duffus,1876.3
+9580,Burgos,1706,Segunda División,Spain,2026-05-31,Ander Cantero,1962.6
+537,Leganes,1706,Segunda División,Spain,2026-05-31,M. Nastasić,1966.8
+573,FK Partizan,1704,Super Liga,Serbia,2026-05-23,S. Zdjelar,1971.2
+6231,Rapid,1704,Liga I,Romania,2026-05-25,C. Manea,1895.8
+416,FC Volendam,1703,Eredivisie,Netherlands,2026-05-20,D. Kwakman,1954.8
+8157,FC Andorra,1702,Segunda División,Spain,2026-05-31,Diego Alende,1957.7
+434,Gimnasia L.P.,1701,Liga Profesional,Argentina,2026-05-14,S. Arzamendia,2023.0
+702,Vojvodina,1701,Super Liga,Serbia,2026-05-23,L. Ranđelović,1897.5
+4501,Hapoel Tel Aviv,1700,Ligat Ha'al,Israel,2026-05-23,Chico,1965.5
+406,Aarhus,1700,Superliga,Denmark,2026-05-17,F. Beijmo,2126.8
+252,Aberdeen,1699,Premiership,Scotland,2026-05-17,L. Morrison,1864.2
+349,Piast Gliwice,1699,Ekstraklasa,Poland,2026-05-23,E. Twumasi,1880.5
+21263,Dalian Zhixing,1699,Super League,China,2026-05-31,N. Stanciu,1948.2
+2956,Damac,1698,Saudi Pro League,Saudi Arabia,2026-02-26,G. Nkoudou,1997.8
+515,Spezia,1698,Serie B,Italy,2026-05-08,S. Żurkowski,1927.3
+3601,Pendikspor,1698,1. Lig,Turkey,2026-05-07,V. Soldo,1909.4
+22234,Milford FC,1698,Premier Soccer League,South Africa,2026-06-06,,
+345,Zaglebie Lubin,1697,Ekstraklasa,Poland,2026-05-23,A. Ławniczak,1884.6
+4200,Albirex Niigata S,1697,Premier League,Singapore,2026-05-16,H. Kamata,2313.6
+350,Cracovia Krakow,1696,Ekstraklasa,Poland,2026-05-23,O. Kakabadze,1875.0
+396,Sonderjyske,1695,Superliga,Denmark,2026-05-17,M. Soulas,1913.2
+306,Tokyo Verdy,1694,J1 League,Japan,2026-06-06,N. Hayashi,1932.3
+1693,Mantova,1694,Serie B,Italy,2026-05-08,S. Trimboli,1938.1
+21595,AVS,1693,Primeira Liga,Portugal,2026-05-16,Rúben Semedo,1993.8
+561,HNK Rijeka,1693,HNL,Croatia,2026-05-23,S. Radeljić,2030.4
+442,Defensa Y Justicia,1693,Liga Profesional,Argentina,2026-05-04,J. López,2102.6
+1611,Sporting Kansas City,1692,MLS,USA,2026-05-24,A. Brody,1930.4
+1014,Lausanne,1692,Super League,Switzerland,2026-05-16,N. Beloko,1991.8
+1321,Hansa Rostock,1692,3. Liga,Germany,2026-05-16,S. Thill,1812.0
+250,Kilmarnock,1691,Premiership,Scotland,2026-05-17,M. Schjønning-Larsen,1884.1
+1066,Gimnasia M.,1690,Liga Profesional,Argentina,2026-05-04,J. Álvarez,1851.4
+525,Pescara,1690,Serie B,Italy,2026-05-08,G. Corbo,1917.3
+3684,FC Noah,1690,Premier League,Armenia,2026-05-27,Y. Eteki,1937.7
+4216,Navbahor,1690,Super League,Uzbekistan,2024-11-30,E. Suyunov,1895.2
+225,Nacional,1689,Primeira Liga,Portugal,2026-05-16,Gabriel Veron,1944.1
+1198,Remo,1689,Série A,Brazil,2026-05-31,Gabriel Taliari,1967.1
+17161,LNZ Cherkasy,1689,Premier League,Ukraine,2026-05-24,D. Kuzyk,1894.3
+2012,FC Sochi,1687,Premier Liga,Russia,2026-05-17,N. Stojić,1985.4
+2744,Sepahan FC,1687,Persian Gulf Pro League,Iran,2026-02-18,P. Niazmand,1860.3
+734,Kortrijk,1687,Challenger Pro League,Belgium,2026-04-17,T. Ambrose,1824.4
+132,Chapecoense-sc,1686,Série A,Brazil,2026-05-31,Bruno Pacheco,1905.6
+346,Korona Kielce,1686,Ekstraklasa,Poland,2026-05-23,S. Rubežić,1806.5
+2877,Baniyas SC,1686,Pro League,UAE,2026-05-16,M. Dabbur,1990.6
+3012,Annecy,1686,Ligue 2,France,2026-05-09,F. Escales,1917.2
+14562,Motor Lublin,1685,Ekstraklasa,Poland,2026-05-23,Sergi Samper,1796.9
+1072,TSV Hartberg,1685,Bundesliga,Austria,2026-05-17,B. Markuš,1820.8
+3597,Manisa F.K.,1685,1. Lig,Turkey,2026-05-01,L. Diony,1875.4
+15516,ATK Mohun Bagan,1685,Indian Super League,India,2026-05-21,J. Maclaren,1817.1
+1365,Grimsby,1683,League Two,England,2026-05-15,G. Turi,1853.1
+1065,Central Cordoba de Santiago,1682,Liga Profesional,Argentina,2026-05-02,A. Aguerre,1952.7
+123,Sport Recife,1682,Serie B,Brazil,2026-05-30,Yago Felipe,2084.0
+962,Renaissance Berkane,1678,Botola Pro,Morocco,2026-06-03,M. Mohamedi,2017.1
+1298,Le Mans,1677,Ligue 2,France,2026-05-09,L. Buadés,2005.6
+732,Zaragoza,1676,Segunda División,Spain,2026-05-31,E. Andrada,1992.9
+259,Lommel United,1676,Challenger Pro League,Belgium,2026-05-23,L. Schoofs,1766.9
+3364,Borac Banja Luka,1676,Premijer Liga,Bosnia,2026-05-26,S. Ogrinec,1869.4
+955,Asteras Tripolis,1675,Super League 1,Greece,2026-05-21,I. Sylla,1838.0
+227,Santa Clara,1674,Primeira Liga,Portugal,2026-05-16,MT,1903.1
+1136,Once Caldas,1674,Primera A,Colombia,2026-05-14,J. Cuesta,1983.7
+1080,FC Orenburg,1673,Premier Liga,Russia,2026-05-17,J. Palacios,1860.2
+1936,CA Estudiantes,1673,Primera Nacional,Argentina,,F. Quinteros,1788.5
+10124,Riga,1673,Virsliga,Latvia,2025-08-27,O. Galo,1905.3
+6786,Akron,1672,Premier Liga,Russia,2026-05-23,João Escoval,1834.8
+2899,UMM Salal,1672,Stars League,Qatar,2026-04-27,A. Diallo,2096.8
+899,Modena,1672,Serie B,Italy,2026-05-12,M. De Luca,1852.7
+739,AS Eupen,1672,Challenger Pro League,Belgium,2026-04-17,Yoram\t Zague,1952.9
+1142,Deportes Tolima,1671,Primera A,Colombia,2026-05-23,Y. Osorio,1995.3
+3605,Sarıyer,1671,1. Lig,Turkey,2026-05-02,M. Mert,1870.6
+2553,Alianza Lima,1671,Primera División,Peru,,Á. Campos,1963.0
+2898,Al-Sailiya,1669,Stars League,Qatar,2026-04-27,A. El Ghazi,1905.6
+1152,Barcelona SC,1669,Liga Pro,Ecuador,,G. Vallecilla,1900.1
+449,Banfield,1668,Liga Profesional,Argentina,2026-05-02,S. Vittor,1973.1
+398,FC Nordsjaelland,1667,Superliga,Denmark,2026-05-17,A. Hansen,2141.8
+4215,Nasaf,1667,Super League,Uzbekistan,2026-02-16,S. Muhitdinov,1812.5
+848,Hangzhou Greentown,1666,Super League,China,2026-05-30,Gu Chao,2019.8
+2247,Apoel Nicosia,1666,1. Division,Cyprus,2026-05-22,P. Olayinka,1996.4
+441,Union Santa Fe,1665,Liga Profesional,Argentina,2026-05-12,Daniel Alejandro Islas,1915.5
+140,Criciuma,1665,Serie B,Brazil,2026-06-06,Marcelo Hermes,1966.0
+203,NAC Breda,1664,Eredivisie,Netherlands,2026-05-17,M. Balard,1802.9
+74,Sheffield Wednesday,1664,Championship,England,2026-05-02,S. Dieng,2033.9
+1389,Falkirk,1663,Premiership,Scotland,2026-05-16,S. Bain,1984.0
+1361,Colchester,1663,League Two,England,2026-05-02,E. Iandolo,1840.8
+949,Panetolikos,1662,Super League 1,Greece,2026-05-21,L. Chaves,1844.6
+1028,Ried,1662,Bundesliga,Austria,2026-05-25,A. Bajić,1805.0
+2546,Sporting Cristal,1661,Primera División,Peru,,R. Solis,1882.8
+2392,Debreceni VSC,1660,NB I,Hungary,2026-05-16,Á. Lang,1935.1
+1394,FC BW Linz,1660,Bundesliga,Austria,2026-05-16,C. Conde,1897.0
+5499,Turan,1660,Premyer Liqa,Azerbaijan,2026-05-22,Henrique,1868.5
+263,Beerschot VA,1660,Challenger Pro League,Belgium,2026-05-09,C. Dagba,1923.6
+10013,Cusco,1660,Primera División,Peru,,I. Colman,1937.4
+3702,Bolívar,1660,Primera División,Bolivia,,J. Sagredo,1867.3
+2618,Botafogo SP,1658,Paulista - A1,Brazil,2026-06-01,Matheus Sales,1885.5
+2328,Huachipato,1657,Primera División,Chile,,J. Gutiérrez,1892.4
+1320,Energie Cottbus,1657,3. Liga,Germany,2026-05-16,L. Copado,1953.0
+2770,Bangkok United,1656,Thai League 1,Thailand,2026-05-02,S. Kunori,2047.4
+4716,Casa Pia,1655,Primeira Liga,Portugal,2026-05-28,L. Ofori,1874.7
+4206,Tampines Rovers,1655,Premier League,Singapore,2026-05-17,I. Najeeb,2058.0
+720,Valladolid,1655,Segunda División,Spain,2026-05-31,Sergi Canós,1929.9
+485,San Martin Tucuman,1655,Primera Nacional,Argentina,,Agustín Rodrigo Briones,1859.6
+3578,İstanbulspor,1654,1. Lig,Turkey,2026-05-01,D. Duhaney,1844.0
+1621,Rot-Weiß Essen,1652,3. Liga,Germany,2026-05-26,J. Ríos Alonso,1767.3
+783,FC Zurich,1651,Super League,Switzerland,2026-05-16,A. Hack,1897.7
+152,Juventude,1651,Serie B,Brazil,2026-06-05,Jandrei,2020.2
+364,Djurgardens IF,1651,Allsvenskan,Sweden,2026-05-22,J. Okkels,1890.4
+669,Coleraine FC,1650,Premiership,Northern Ireland,2026-04-18,J. Cooper,1853.0
+1364,Exeter City,1648,League One,England,2026-05-02,J. Fitzwater,1874.6
+562,FC Astana,1648,Premier League,Kazakhstan,2025-08-14,K. Bartolec,1948.1
+3617,Karpaty,1647,Premier League,Ukraine,2026-05-23,D. Palacios,1945.7
+2414,Zalaegerszegi TE,1647,NB I,Hungary,2026-05-16,Calderón,1983.0
+414,Roda,1647,Eerste Divisie,Netherlands,2026-05-01,J. Nisbet,1788.5
+6813,Dinamo Makhachkala,1646,Premier Liga,Russia,2026-05-23,J. Tabidze,1868.3
+478,Instituto Cordoba,1646,Liga Profesional,Argentina,2026-05-05,H. De La Fuente,1971.7
+635,Dinamo Bucuresti,1646,Liga I,Romania,2026-05-29,Edgar Ié,1907.5
+5684,Shenyang Urban,1646,Super League,China,2026-05-29,Zhang Yan,1977.2
+341,Wisla Plock,1645,Ekstraklasa,Poland,2026-05-23,Iban Salvador,1827.6
+474,Sarmiento Junin,1645,Liga Profesional,Argentina,2026-05-03,Lucas Acosta,2090.2
+3723,Hradec Králové,1645,Czech Liga,Czech Republic,2026-05-24,A. Zadražil,1781.1
+1333,AFC Wimbledon,1645,League One,England,2026-05-02,J. Tilley,1817.3
+755,Nautico Recife,1645,Serie B,Brazil,2026-05-30,Reginaldo Lopes,1896.8
+17259,Iğdır FK,1645,1. Lig,Turkey,2026-05-02,O. Güçtekin,1836.1
+528,Avellino,1644,Serie B,Italy,2026-05-12,A. Izzo,1853.4
+1398,WSG Wattens,1643,Bundesliga,Austria,2026-05-16,T. Sabitzer,1760.3
+1013,Grasshoppers,1643,Super League,Switzerland,2026-05-21,B. Schmitz,1877.2
+731,Sporting Gijon,1643,Segunda División,Spain,2026-05-30,L. Perrin,1960.3
+715,Granada CF,1643,Segunda División,Spain,2026-05-30,L. Zidane,2025.4
+2390,Paks,1642,NB I,Hungary,2026-05-16,K. Papp,1887.2
+677,Olimpija Ljubljana,1642,1. SNL,Slovenia,2026-03-14,Pedro Lucas,1965.8
+3408,Aris,1642,1. Division,Cyprus,2026-05-22,C. Goldson,2006.9
+419,Almere City FC,1642,Eerste Divisie,Netherlands,2026-05-16,M. Engel,1784.1
+2893,Al Shahaniya,1641,Stars League,Qatar,2026-05-08,P. van Amersfoort,1807.0
+367,BK Hacken,1641,Allsvenskan,Sweden,2026-05-31,B. Wembangomo,1962.0
+455,Atletico Tucuman,1640,Liga Profesional,Argentina,2026-05-03,G. Toledo,2016.5
+2070,Viborg,1639,Superliga,Denmark,2026-05-17,L. Lund,1959.2
+146,CRB,1639,Serie B,Brazil,2026-06-07,L. Segovia,1851.2
+2356,Club Nacional,1639,Primera División - Apertura,Uruguay,2025-06-29,S. Coates,2076.1
+129,Ceara,1638,Serie B,Brazil,2026-05-31,Fernando Miguel,1996.0
+1581,Carrarese,1637,Serie B,Italy,2026-05-08,T. Rubino,1821.5
+648,Zira,1637,Premyer Liqa,Azerbaijan,2026-05-23,İ. İbrahimli,1945.3
+2110,Volos NFC,1636,Super League 1,Greece,2026-05-17,Óscar Pinchi,1910.2
+1599,Philadelphia Union,1636,MLS,USA,2026-05-24,I. Vassilev,2026.5
+11238,Araz,1636,Premyer Liqa,Azerbaijan,2026-05-23,Q. Qarayev,1813.2
+725,Cultural Leonesa,1635,Segunda División,Spain,2026-05-30,Tomás Ribeiro,1999.2
+1426,CSKA 1948,1635,First League,Bulgaria,2026-05-25,L. Dvali,1985.2
+1193,Cuiaba,1635,Serie B,Brazil,2026-05-31,João Basso,2009.8
+2255,Ujpest,1632,NB I,Hungary,2026-05-16,A. Maier,1899.0
+2320,O'Higgins,1632,Primera División,Chile,,M. Romero,2006.8
+1483,NK Varazdin,1631,HNL,Croatia,2026-05-23,P. Bočkaj,2040.3
+5254,Castellón,1631,Segunda División,Spain,2026-06-06,Ousmane Camara,1990.1
+552,Maribor,1631,1. SNL,Slovenia,2026-05-23,J. Seri,1882.4
+1929,Deportivo Madryn,1631,Primera Nacional,Argentina,,F. Recalde,1856.6
+609,Shkendija,1631,First League,Macedonia,2026-05-15,E. Bejtulai,1937.6
+2977,Al Okhdood,1630,Saudi Pro League,Saudi Arabia,2026-02-23,K. Narey,1878.8
+1138,America de Cali,1630,Primera A,Colombia,2026-05-13,É. Balanta,1976.5
+375,Malmo FF,1630,Allsvenskan,Sweden,2026-05-30,R. Olsen,1836.2
+1353,Swindon Town,1630,League Two,England,2026-05-02,W. Wright,1918.8
+331,Rosenborg,1629,Eliteserien,Norway,2026-05-29,J. Svensson,1942.8
+253,Dundee,1628,Premiership,Scotland,2026-05-17,S. Wright,1829.7
+187,MSV Duisburg,1628,3. Liga,Germany,2026-05-16,C. Viet,1810.7
+583,Linfield,1628,Premiership,Northern Ireland,2026-04-18,E. East,1794.8
+3595,Keçiörengücü,1627,1. Lig,Turkey,2026-05-07,F. Ezeh,1799.4
+1948,Atlanta,1627,Primera Nacional,Argentina,,A. Sabella,1750.5
+2391,Puskas Academy,1626,NB I,Hungary,2026-05-15,Á. Pécsi,1783.4
+509,Cesena,1626,Serie B,Italy,2026-05-08,G. Castrovilli,1902.5
+713,Cordoba,1626,Segunda División,Spain,2026-05-31,Rubén Alves,2053.9
+968,Wydad AC,1626,Botola Pro,Morocco,2026-06-03,H. Ziyech,2012.8
+10511,Al Riyadh,1625,Saudi Pro League,Saudi Arabia,2026-02-26,Abdulelah Al Khaibari,1848.6
+1125,Millonarios,1625,Primera A,Colombia,2026-05-03,A. Llinás,2006.5
+786,TSV 1860 München,1625,3. Liga,Germany,2026-05-16,K. Volland,1828.5
+206,Heracles,1624,Eredivisie,Netherlands,2026-05-17,N. Laursen,1793.9
+782,Slovan Liberec,1624,Czech Liga,Czech Republic,2026-05-24,L. Masopust,2011.9
+618,SCR Altach,1624,Bundesliga,Austria,2026-05-16,Unknown (22091),1822.6
+5352,Glentoran,1624,Premiership,Northern Ireland,2026-03-28,R. Cooney,1756.7
+1965,Tristan Suarez,1623,Primera Nacional,Argentina,,M. Guillén,1780.5
+8379,San Miguel,1623,Primera Nacional,Argentina,,G. Peruzzi,1898.4
+15550,Macarthur,1622,A-League,Australia,2026-02-19,Beñat,1832.6
+2269,Anorthosis,1622,1. Division,Cyprus,2026-05-15,S. Sensi,1875.8
+1128,Independiente Medellin,1621,Primera A,Colombia,2026-05-03,J. Ortiz,1960.5
+4220,Pakhtakor,1621,Super League,Uzbekistan,2024-11-30,S. Azamov,1847.8
+2270,Neftchi Baku,1620,Premyer Liqa,Azerbaijan,2026-05-23,I. Faraj,1920.2
+2746,Gangwon FC,1620,K League 1,South Korea,2026-05-17,M. Tuci,1858.2
+1036,Pyramids FC,1620,Premier League,Egypt,2026-05-20,B. Touré,1789.3
+417,Waalwijk,1619,Eerste Divisie,Netherlands,2026-05-09,J. Boëtius,1833.8
+21265,Yunnan Yukun,1618,Super League,China,2026-05-31,José Martínez,2050.9
+1002,Sivasspor,1618,1. Lig,Turkey,2026-05-02,Marcelo Goiano,1978.1
+329,Molde,1617,Eliteserien,Norway,2026-05-30,B. Risa,1933.6
+2876,Al-Ittihad Kalba,1617,Pro League,UAE,2026-05-15,A. Maxsø,1873.2
+679,FK Sarajevo,1617,Premijer Liga,Bosnia,2026-05-03,S. Ristovski,1859.9
+2180,FC Winterthur,1616,Super League,Switzerland,2026-05-16,M. Kryeziu,1800.7
+2325,Everton de Vina,1616,Primera División,Chile,,B. Berríos,1789.4
+1304,Dunkerque,1616,Ligue 2,France,2026-05-09,B. Youssouf,1782.8
+1363,Crewe,1616,League Two,England,2026-05-02,J. Connolly,1684.1
+6486,Bukovyna,1616,Persha Liga,Ukraine,2026-06-02,Y. Pidlepenets,1806.2
+463,Aldosivi,1615,Liga Profesional,Argentina,2026-05-03,I. Chicco,1870.9
+969,FAR Rabat,1615,Botola Pro,Morocco,2026-06-04,A. Tagnaouti,1847.3
+1223,Operario-PR,1614,Serie B,Brazil,2026-06-05,Léo Cittadini,2028.0
+616,NK Osijek,1612,HNL,Croatia,2026-05-22,B. Barišić,1895.7
+2907,Qatar SC,1612,Stars League,Qatar,2026-04-27,P. Kimpembe,2177.7
+880,Reggiana,1612,Serie B,Italy,2026-05-08,J. Da Riva,1795.6
+1928,Gimnasia Y Tiro,1612,Primera Nacional,Argentina,,L. Contín,1701.4
+319,Brann,1611,Eliteserien,Norway,2026-05-29,R. Matondo,1890.1
+1122,FK Jablonec,1611,Czech Liga,Czech Republic,2026-05-24,P. Ševčík,2027.2
+2643,Novi Pazar,1611,Super Liga,Serbia,2026-05-23,B. Omoregbe,1934.1
+6342,Vanspor FK,1611,1. Lig,Turkey,2026-05-01,K. Mamah,1923.4
+439,Godoy Cruz,1611,Primera Nacional,Argentina,,L. Arce,1994.6
+4217,Neftchi,1611,Super League,Uzbekistan,2024-11-30,L. To‘rayev,1768.8
+2424,Estudiantes de Rio Cuarto,1610,Liga Profesional,Argentina,2026-05-05,F. Bersano,1867.0
+251,ST Mirren,1609,Premiership,Scotland,2026-05-25,A. Campbell,1804.9
+476,Deportivo Riestra,1609,Liga Profesional,Argentina,2026-05-02,P. Ramírez,2025.9
+99,Clermont Foot,1609,Ligue 2,France,2026-05-09,S. Sow,2025.1
+2011,Nizhny Novgorod,1608,Premier Liga,Russia,2026-05-17,E. Fariña,1789.8
+9136,Al Bataeh,1608,Pro League,UAE,2026-05-16,Paulinho,1777.5
+3478,Mumbai City,1607,Indian Super League,India,2026-05-21,J. Pereyra,1837.7
+2945,Al-Hazm,1605,Saudi Pro League,Saudi Arabia,2026-02-27,Bruno Varela,2274.5
+2633,OFK Beograd,1605,Super Liga,Serbia,2026-05-22,M. Rodić,1824.3
+15130,Estrela,1604,Primeira Liga,Portugal,2026-05-16,Luan Patrick,1897.2
+1386,Dundee Utd,1604,Premiership,Scotland,2026-05-17,A. Maynard-Brewer,1766.5
+177,SSV Jahn Regensburg,1604,3. Liga,Germany,2026-05-16,S. Adamyan,1699.9
+1336,Fleetwood Town,1604,League Two,England,2026-05-02,E. Bonds,1796.5
+479,Gimnasia Jujuy,1604,Primera Nacional,Argentina,,Unknown (16693),1860.4
+2764,Pohang Steelers,1603,K League 1,South Korea,2026-05-17,Hwang In-Jae,1993.8
+1367,Newport County,1603,League Two,England,2026-05-02,L. Shephard,1719.4
+333,Sarpsborg 08 FF,1602,Eliteserien,Norway,2026-05-29,S. Rosted,1878.6
+2992,Al Najma,1601,Saudi Pro League,Saudi Arabia,2026-02-25,Samir,1893.5
+953,Larisa,1601,Super League 1,Greece,2026-05-21,F. Pérez,1811.6
+4374,Koper,1601,1. SNL,Slovenia,2026-05-16,F. Hartherz,1772.5
+469,Deportivo Moron,1601,Primera Nacional,Argentina,,R. Arias,1796.9
+2396,MTK Budapest,1600,NB I,Hungary,2026-05-15,Adrian Zeljković,1718.8
+2592,Arges Pitesti,1600,Liga I,Romania,2026-05-22,D. Oancea,1810.9
+218,Tondela,1599,Primeira Liga,Portugal,2026-05-16,J. Siebatcheu,1953.7
+2099,Panserraikos,1598,Super League 1,Greece,2026-05-21,L. Lyratzis,1794.7
+3396,AEL,1598,1. Division,Cyprus,2026-05-15,D. Zdravkovski,1875.1
+482,Almagro,1598,Primera Nacional,Argentina,,Ángel Emanuel Gonzalez,1762.2
+17265,Qingdao Youth Island,1597,Super League,China,2026-05-30,S. Memišević,1929.5
+409,Dordrecht,1597,Eerste Divisie,Netherlands,2026-04-24,J. Plug,1785.4
+976,Raja Casablanca,1596,Botola Pro,Morocco,2026-06-03,M. Al Makahasi,1942.0
+2700,Orlando Pirates,1596,Premier Soccer League,South Africa,2026-05-23,S. Chaine,1933.6
+1578,Sudtirol,1595,Serie B,Italy,2026-05-22,R. Kofler,1780.9
+21011,Yelimay Semey,1595,Premier League,Kazakhstan,,R. Orazov,1863.9
+2879,Ajman,1594,Pro League,UAE,2026-05-15,Dodô,1812.0
+4912,Khorfakkan,1594,Pro League,UAE,2026-05-15,Won Du-Jae,1905.7
+3627,Kolos Kovalivka,1594,Premier League,Ukraine,2026-05-21,A. Ponedelnik,1862.0
+144,Atletico Goianiense,1594,Serie B,Brazil,2026-05-30,Matheus Índio,1873.7
+1349,Oldham,1594,League Two,England,2026-05-02,J. Robson,1793.2
+470,Ferro Carril Oeste,1593,Primera Nacional,Argentina,,F. Mussis,1895.0
+4223,Sogdiana,1593,Super League,Uzbekistan,2024-11-30,L. Doriev,1763.0
+2240,Mjallby AIF,1592,Allsvenskan,Sweden,2026-05-25,N. Törnqvist,2047.8
+2554,FBC Melgar,1592,Primera División,Peru,,N. Cabanillas,1928.3
+20960,Deportivo Garcilaso,1592,Primera División,Peru,,E. Canales,1704.6
+724,Cadiz,1591,Segunda División,Spain,2026-05-31,Luis Hernández,1885.8
+701,KI Klaksvik,1591,Meistaradeildin,Faroe Islands,2025-08-14,J. Danielsen,1947.2
+3472,Bengaluru,1591,Indian Super League,India,2026-05-16,R. Bheke,1802.1
+687,Flora Tallinn,1590,Meistriliiga,Estonia,2025-07-17,H. Pürg,1903.2
+1027,SKN ST. Polten,1590,2. Liga,Austria,2026-05-14,D. Carlson,1829.8
+139,Ponte Preta,1589,Paulista - A1,Brazil,2026-06-01,Dedé,1837.1
+2748,FC Anyang,1589,K League 1,South Korea,2026-05-17,Kwon Kyung-Won,1843.6
+2073,Silkeborg,1588,Superliga,Denmark,2026-05-17,A. Poulsen,1793.9
+363,Hammarby FF,1588,Allsvenskan,Sweden,2026-05-31,E. Skoglund,1951.8
+200,Vitesse,1588,Eerste Divisie,Netherlands,2026-04-24,D. Pröpper,1851.4
+1372,Cheltenham,1587,League Two,England,2026-05-02,R. Cundy,1788.3
+3487,Nieciecza,1586,Ekstraklasa,Poland,2026-05-23,L. Masoero,1773.6
+799,Mirandes,1586,Segunda División,Spain,2026-05-31,Raúl Fernández,1970.3
+588,Zrinjski,1586,Premijer Liga,Bosnia,2026-05-26,M. Ćuže,1854.0
+344,Arka Gdynia,1584,Ekstraklasa,Poland,2026-05-23,N. Rusyn,1769.9
+5695,Wuhan Three Towns,1584,Super League,China,2026-05-31,J. Cádiz,1852.7
+142,Vila Nova,1584,Serie B,Brazil,2026-05-31,Helton Leite,1921.9
+1639,FC Saarbrücken,1584,3. Liga,Germany,2026-05-16,N. Bretschneider,1713.7
+1040,Zamalek SC,1584,Premier League,Egypt,2026-05-20,Hossam Abdelmaguid,1815.6
+1131,Bucaramanga,1583,Primera A,Colombia,2026-05-03,A. Quintana,1977.5
+2257,Dunajska Streda,1583,Super Liga,Slovakia,2026-05-16,A. Gruber,1843.9
+3711,The Strongest,1583,Primera División,Bolivia,,E. Isnaldo,1817.2
+401,Randers FC,1582,Superliga,Denmark,2026-05-17,A. Rømer,1842.7
+599,Zorya Luhansk,1581,Premier League,Ukraine,2026-05-23,D. Favorov,1818.4
+405,Odense,1581,Superliga,Denmark,2026-05-17,J. Bonde,1882.0
+1154,Deportivo Cuenca,1581,Liga Pro,Ecuador,,K. Moreno,1759.3
+2562,Cienciano,1581,Primera División,Peru,,Y. Gamero,1755.1
+1342,Walsall,1580,League Two,England,2026-05-02,K. Roofe,1883.5
+4563,Aktobe,1580,Premier League,Kazakhstan,2025-07-31,D. Sosah,1827.4
+372,IF Elfsborg,1579,Allsvenskan,Sweden,2026-05-29,T. Isherwood,1868.6
+2331,Cobresal,1578,Primera División,Chile,,C. Barrera,1854.9
+1319,SV Wehen,1578,3. Liga,Germany,2026-05-16,F. Luckeneder,1740.0
+2318,Palestino,1577,Primera División,Chile,,D. Zúñiga,1843.7
+2526,Selangor,1577,Super League,Malaysia,2026-05-17,U. Eshmurodov,1825.6
+3577,Ümraniyespor,1577,1. Lig,Turkey,2026-05-02,B. Öksüz,1781.4
+411,Jong PSV U21,1576,Eerste Divisie,Netherlands,2026-04-24,N. Schiks,1777.0
+354,The New Saints,1576,Premier League,Wales,2026-04-03,D. Williams,1722.2
+5686,Sichuan Jiuniu,1573,Super League,China,2026-05-30,Chow Tim,1944.7
+3843,St Patrick's Athl.,1573,Premier Division,Ireland,2026-05-29,R. Palmer,1737.6
+258,ST Johnstone,1573,Championship,Scotland,2026-04-11,E. Ambrose,1817.3
+4205,Hougang United,1571,Premier League,Singapore,2026-05-18,Z. Rohaizad,1931.1
+199,De Graafschap,1570,Eerste Divisie,Netherlands,2026-05-09,R. Besselink,1712.7
+2337,Nublense,1569,Primera División,Chile,,G. Graciani,1744.5
+13975,Athletic Club,1569,Serie B,Brazil,2026-05-30,Nico Williams,2444.5
+527,Virtus Entella,1568,Serie B,Italy,2026-05-08,L. Benedetti,1758.2
+1127,Deportivo Cali,1568,Primera A,Colombia,2026-05-03,L. Orejuela,2009.4
+1297,PAU,1567,Ligue 2,France,2026-05-09,J. Ruiz,1739.7
+1305,Bastia,1567,Ligue 2,France,2026-05-09,F. Bohnert,1870.0
+4219,Olmaliq,1566,Super League,Uzbekistan,2024-11-30,A. Komilov,1774.3
+184,FC Ingolstadt 04,1565,3. Liga,Germany,2026-05-16,M. Besuschkow,1687.2
+2259,FK Tobol Kostanay,1564,Premier League,Kazakhstan,2024-08-01,M. Vukčević,1800.7
+3499,Dila,1564,Erovnuli Liga,Georgia,2025-07-31,Pedro Mendes,1759.5
+652,Shamrock Rovers,1564,Premier Division,Ireland,2026-05-29,M. Healy,1794.3
+2789,Port FC,1563,Thai League 1,Thailand,2026-05-10,Lucas Tocantins,1816.8
+3528,Paide,1563,Meistriliiga,Estonia,2025-07-31,M. Lilander,1882.9
+404,AC Horsens,1562,1. Division,Denmark,2026-05-31,V. Pálsson,1764.9
+16730,Deportes Limache,1562,Primera División,Chile,,G. Paz,1729.5
+3416,Omonia Aradippou,1562,1. Division,Cyprus,2026-05-15,S. Lomónaco,1883.3
+3502,Saburtalo,1560,Erovnuli Liga,Georgia,2025-07-29,J. Jinjolava,1741.4
+1068,HNK Gorica,1559,HNL,Croatia,2026-05-23,D. Pavičić,1915.6
+1337,Northampton,1559,League One,England,2026-05-02,T. Fosu,1812.9
+73,Rotherham,1557,League One,England,2026-05-02,S. McWilliams,1811.7
+10139,AD Ceuta FC,1557,Segunda División,Spain,2026-05-30,Campaña,1855.3
+1347,Gillingham,1557,League Two,England,2026-05-02,J. Smith,1757.9
+664,Kairat Almaty,1557,Premier League,Kazakhstan,2026-01-28,G. Zaria,1727.0
+4201,Balestier Khalsa,1556,Premier League,Singapore,2026-04-27,M. Sugita,1980.8
+2873,Al-Dhafra,1556,Pro League,UAE,2026-05-16,J. Guðmunds­son,1845.8
+2733,Esteghlal FC,1556,Persian Gulf Pro League,Iran,2026-02-17,Adán,2141.1
+101,Grenoble,1556,Ligue 2,France,2026-05-09,M. Djitté,1737.7
+3628,Metalist 1925 Kharkiv,1555,Premier League,Ukraine,2026-05-24,I. Kalyuzhnyi,2112.8
+4265,Verl,1555,3. Liga,Germany,2026-05-16,P. Schulze,1709.3
+1954,Deportivo Maipu,1555,Primera Nacional,Argentina,,Mauro Ezequiel Cerutti,1694.3
+462,Agropecuario,1555,Primera Nacional,Argentina,,Diego Eduardo Lagos,1866.1
+274,Valur Reykjavik,1555,Úrvalsdeild,Iceland,2025-07-31,F. Schram,1638.6
+1067,Defensores De Belgrano,1554,Primera Nacional,Argentina,,Unknown (6255),1794.5
+1023,Admira Wacker,1553,2. Liga,Austria,2026-05-14,M. Meisl,1761.8
+1362,Crawley Town,1552,League Two,England,2026-05-02,R. Darcy,1790.9
+1430,Arda Kardzhali,1550,First League,Bulgaria,2026-05-25,Andre Shinyashiki,1679.8
+145,Avai,1550,Serie B,Brazil,2026-05-30,Zé Ricardo,1863.5
+3602,Sakaryaspor,1550,1. Lig,Turkey,2026-05-01,B. Bekaroğlu,1762.5
+326,Valerenga,1549,Eliteserien,Norway,2026-05-29,I. Näsberg,1795.9
+2341,D. La Serena,1549,Primera División,Chile,,J. Rojas,1784.7
+2768,Gimcheon Sangmu FC,1548,K League 1,South Korea,2026-05-17,Byeon Jun-Soo,1846.8
+2560,Alianza Atletico,1548,Primera División,Peru,,C. Vásquez,1803.9
+654,Zeljeznicar Sarajevo,1548,Premijer Liga,Bosnia,2026-05-10,M. Cvetanoski,1967.6
+870,Padova,1547,Serie B,Italy,2026-05-08,G. Caprari,1826.4
+2149,Fredrikstad,1546,Eliteserien,Norway,2026-05-29,L. Owusu,1715.5
+4160,Rīgas FS,1546,Virsliga,Latvia,2025-08-28,H. Prenga,1915.2
+980,ES Tunis,1546,Ligue 1,Tunisia,2026-05-14,M. Dräger,1825.1
+366,IFK Goteborg,1545,Allsvenskan,Sweden,2026-05-31,M. Fenger,1840.7
+625,Lyngby,1544,1. Division,Denmark,2026-05-31,D. Warmerdam,1901.4
+2761,Jeju United FC,1544,K League 1,South Korea,2026-05-17,Emerson Negueba,1815.2
+709,Pyunik Yerevan,1543,Premier League,Armenia,2026-05-27,Juninho,1769.9
+2273,FC Levadia Tallinn,1543,Meistriliiga,Estonia,2025-08-14,João Pedro,1695.2
+148,Londrina,1542,Serie B,Brazil,2026-06-06,Jumar,1733.9
+2353,Juventud,1542,Primera División - Apertura,Uruguay,2025-06-08,I. Rossi,1784.4
+1144,Águilas Doradas,1538,Primera A,Colombia,2026-05-03,I. Arboleda,2069.0
+726,Huesca,1537,Segunda División,Spain,2026-05-31,Julio Alonso,1915.6
+2776,Ratchaburi,1537,Thai League 1,Thailand,2026-05-10,Sidcley,1757.6
+433,Laval,1534,Ligue 2,France,2026-05-24,T. Dago,1713.6
+1932,San Telmo,1534,Primera Nacional,Argentina,,L. Miranda,1901.5
+454,Temperley,1532,Primera Nacional,Argentina,,S. Vidal,1878.6
+4210,Bunyodkor,1532,Super League,Uzbekistan,2024-11-30,T. Abdukholikov,1707.9
+1819,Barrow,1531,League Two,England,2026-05-02,R. Healey,1788.0
+2072,Hvidovre,1531,1. Division,Denmark,2026-05-31,L. Prip,1802.1
+634,Botev Plovdiv,1530,First League,Bulgaria,2026-05-25,E. Rodríguez,1805.7
+2350,Defensor Sporting,1530,Primera División - Apertura,Uruguay,2025-06-28,M. Gómez,1841.2
+4346,Struga,1530,First League,Macedonia,2026-05-15,B. Ilievski,1752.4
+208,Emmen,1529,Eerste Divisie,Netherlands,2026-04-24,R. Postema,1777.3
+3475,Goa,1529,Indian Super League,India,2026-05-18,Odei Onaindia,1741.1
+21137,East Bengal II,1528,Indian Super League,India,2026-05-21,B. Singh,1794.0
+3415,Olympiakos,1527,1. Division,Cyprus,2026-05-15,V. Kovalenko,1921.0
+1399,Austria Lustenau,1526,2. Liga,Austria,2026-05-14,D. Schierl,1623.4
+1018,NK Slaven Belupo,1525,HNL,Croatia,2026-05-22,M. Dabro,1731.6
+3453,Maghreb Fès,1525,Botola Pro,Morocco,2026-06-01,Nelson Munganga Omba,1721.0
+418,Jong AZ,1525,Eerste Divisie,Netherlands,2026-04-24,M. Dekker,1826.8
+1352,Shrewsbury,1524,League Two,England,2026-05-02,M. Cox,1725.6
+3683,Ararat-Armenia,1524,Premier League,Armenia,2026-05-27,J. Julio,1858.2
+1162,Mushuc Runa SC,1523,Liga Pro,Ecuador,,P. Perlaza,1824.1
+1134,Internacional de Bogota,1523,Primera A,Colombia,2026-05-12,W. Fariñez,1889.5
+461,San Martin S.J.,1523,Primera Nacional,Argentina,,L. Diarte,1856.2
+466,Atletico Mitre,1523,Primera Nacional,Argentina,,Guillermo Martín Farré,1768.0
+14434,Epitsentr Dunayivtsi,1522,Premier League,Ukraine,2026-05-23,K. Kovalets,1750.0
+2763,Incheon United,1522,K League 1,South Korea,2026-05-16,Kim Dong-Heon,1929.3
+2241,Vasteras SK FK,1522,Allsvenskan,Sweden,2026-05-31,V. Wernersson,1697.1
+2276,FC Urartu,1521,Premier League,Armenia,2026-05-27,A. Bratkov,1680.7
+7808,ML Vitebsk,1521,Premier League,Belarus,,Z. Volkov,1808.9
+3854,Shelbourne,1521,Premier Division,Ireland,2026-05-29,Wessel Speel,1789.8
+447,Chacarita Juniors,1520,Primera Nacional,Argentina,,G. Bazán,1804.0
+1016,Istra 1961,1518,HNL,Croatia,2026-05-23,J. Radošević,1918.2
+851,Cherno More Varna,1517,First League,Bulgaria,2026-05-25,V. Drobarov,1746.8
+3454,Olympique Dcheïra,1516,Botola Pro,Morocco,2026-06-01,M. Idar,1726.2
+402,Aalborg,1515,1. Division,Denmark,2026-03-14,B. Hansen,1714.9
+4990,First Vienna,1513,2. Liga,Austria,2026-05-14,M. Gantschnig,1654.2
+6489,Kryvbas KR,1512,Premier League,Ukraine,2026-05-23,Y. Dibango,1901.5
+8377,Colegiales,1512,Primera Nacional,Argentina,,E. Ocampo,1717.0
+1165,KuPS,1512,Veikkausliiga,Finland,2026-05-30,K. Adams,1840.9
+1155,Macara,1511,Liga Pro,Ecuador,,N. Arena,1828.8
+377,AIK Stockholm,1511,Allsvenskan,Sweden,2026-05-30,M. Thychosen,1869.5
+4905,Stellenbosch,1511,Premier Soccer League,South Africa,2026-05-23,M. Lebusa,1840.5
+480,Quilmes,1511,Primera Nacional,Argentina,,J. Martínez,1874.4
+1464,Llaneros,1510,Primera A,Colombia,2026-05-02,D. Quintero,1775.8
+428,Jong Utrecht,1510,Eerste Divisie,Netherlands,2026-04-24,Zidane Iqbal,1731.0
+2769,BG Pathum United,1509,Thai League 1,Thailand,2026-05-10,T. Doi,1914.5
+4268,Waldhof Mannheim,1509,3. Liga,Germany,2026-05-16,S. Ba,1715.7
+8375,Almirante Brown,1509,Primera Nacional,Argentina,,B. Fernández,1820.1
+444,Patronato,1509,Primera Nacional,Argentina,,Carlos Rubén Fondacaro,1857.0
+705,Dinamo Batumi,1509,Erovnuli Liga,Georgia,2024-07-30,O. Azatskyi,1614.3
+7421,Serik Spor,1506,1. Lig,Turkey,2026-05-01,A. Montes,1762.9
+9585,Real Sociedad II,1505,Segunda División,Spain,2026-05-30,Alberto Dadie,1882.2
+1148,Emelec,1505,Liga Pro,Ecuador,,F. Castelli,1807.3
+1620,FC Viktoria Köln,1505,3. Liga,Germany,2026-05-16,F. Ronstadt,1715.0
+1156,Aucas,1504,Liga Pro,Ecuador,,M. Sanabria,1710.9
+1842,Harrogate Town,1503,League Two,England,2026-05-02,J. Slater,1681.0
+12360,Železničar Pančevo,1502,Super Liga,Serbia,2026-05-22,E. Fardou Ben Mohamed,1923.5
+1992,Orense SC,1502,Liga Pro,Ecuador,,V. Burgoa,1907.6
+3569,Boluspor,1499,1. Lig,Turkey,2026-05-01,D. Davas,1726.6
+90,Guingamp,1499,Ligue 2,France,2026-05-09,A. Sissoko,1746.0
+12867,Stuttgart II,1499,3. Liga,Germany,2026-05-16,J. Majchrzak,1757.1
+2159,Ham-Kam,1498,Eliteserien,Norway,2026-05-29,P. Metcalfe,1785.7
+2403,Nyiregyhaza,1498,NB I,Hungary,2026-05-15,K. Varga,1678.6
+2359,Racing Montevideo,1498,Primera División - Apertura,Uruguay,2025-06-29,G. Cotugno,1777.2
+1360,Accrington ST,1498,League Two,England,2026-05-02,L. Coyle,1693.5
+6026,Hillerød,1498,1. Division,Denmark,2026-05-31,M. Due Grandt,1654.0
+2691,Kaizer Chiefs,1497,Premier Soccer League,South Africa,2026-05-23,N. Blom,1868.6
+421,Den Bosch,1497,Eerste Divisie,Netherlands,2026-05-02,T. van Grunsven,1624.8
+3554,Žilina,1497,Super Liga,Slovakia,2026-05-16,K. Bari,1694.4
+3466,Minerva Punjab,1497,Indian Super League,India,2026-05-21,Pablo Santos,1765.9
+901,Partick,1497,Championship,Scotland,2026-05-25,T. Watt,1717.8
+1299,Boulogne,1496,Ligue 2,France,2026-05-09,G. Capuano,1743.6
+4331,Sileks,1496,First League,Macedonia,2026-05-25,A. Mishov,1734.2
+4225,Surkhon,1496,Super League,Uzbekistan,2024-11-30,Egor Krimets,1770.7
+125,America Mineiro,1495,Serie B,Brazil,2026-05-30,Emerson Santos,1756.5
+204,VVV Venlo,1495,Eerste Divisie,Netherlands,2026-04-24,J. Eijgenraam,1666.2
+3615,Chornomorets,1495,Persha Liga,Ukraine,2026-05-23,Y. Rakitskyi,1898.6
+4222,Shortan,1495,Super League,Uzbekistan,2024-12-04,Jamol Otakulov,1590.4
+465,Atletico DE Rafaela,1494,Primera Nacional,Argentina,,N. Fernández,1859.7
+1120,Spartak Trnava,1494,Super Liga,Slovakia,2026-05-16,M. Laušić,1652.7
+568,Sheriff Tiraspol,1493,Super Liga,Moldova,2026-05-10,I. Dyulgerov,1847.5
+1017,NK Lokomotiva Zagreb,1492,HNL,Croatia,2026-05-23,M. Pajač,1851.0
+464,All Boys,1492,Primera Nacional,Argentina,,Unknown (6026),1709.8
+3872,Kauno Žalgiris,1492,A Lyga,Lithuania,2025-08-14,A. Benchaib,1624.8
+374,Kalmar FF,1491,Allsvenskan,Sweden,2026-05-30,A. Dari,1804.1
+448,Colon Santa Fe,1491,Primera Nacional,Argentina,,M. Díaz,1780.2
+483,Los Andes,1491,Primera Nacional,Argentina,,E. Martínez,1749.1
+1157,Universidad Catolica,1490,Liga Pro,Ecuador,,J. Cacciabue,1867.2
+1381,Tranmere,1490,League Two,England,2026-05-02,L. Warrington,1680.5
+4626,Hamrun Spartans,1490,Premier League,Malta,2026-04-25,J. Mbong,1707.8
+685,Torpedo Kutaisi,1490,Erovnuli Liga,Georgia,2025-07-31,V. Mamuchashvili,1853.7
+255,Livingston,1489,Premiership,Scotland,2026-05-17,D. Finlayson,1720.5
+1470,Cucuta,1489,Primera A,Colombia,2026-05-02,F. Castañeda,1728.5
+484,Nueva Chicago,1489,Primera Nacional,Argentina,,C. More,1804.1
+9364,Hoffenheim II,1488,3. Liga,Germany,2026-05-16,Florian Micheler,1649.8
+684,FC Differdange 03,1488,National Division,Luxembourg,2026-05-17,K. D'Anzico,1760.0
+2326,Union La Calera,1485,Primera División,Chile,,N. Brunet,1789.2
+1395,Floridsdorfer AC,1485,2. Liga,Austria,2026-05-14,M. Maier,1651.3
+6222,Patro Eisden,1484,Challenger Pro League,Belgium,2026-04-27,J. Renson,1627.2
+6224,RWDM,1484,Challenger Pro League,Belgium,2026-04-17,Y. Koné,1750.2
+1957,Racing Cordoba,1484,Primera Nacional,Argentina,,Germán Díaz,1675.6
+21262,Chongqing Tongliang Long,1482,Super League,China,2026-05-30,I. Amadou,2030.7
+1946,Chaco For Ever,1482,Primera Nacional,Argentina,,G. Ríos,1845.0
+5635,Concepción,1481,Primera División,Chile,,M. Gallegos,1720.5
+1431,Qingdao Jonoon,1481,Super League,China,2026-05-30,Y. Yeboah,2058.0
+4202,DPMM FC Brunei,1481,Super League,Malaysia,2026-05-09,Syafiq Ahmad,1654.8
+2170,Gais,1481,Allsvenskan,Sweden,2026-05-30,W. Milovanovic,1854.1
+4359,Bravo,1478,1. SNL,Slovenia,2026-05-23,I. Mensah,1769.8
+2394,Kisvarda FC,1477,NB I,Hungary,2026-05-16,Wellington Nem,1765.6
+2772,Chonburi FC,1477,Thai League 1,Thailand,2026-05-10,S. Channgom,1689.1
+4625,Floriana,1477,Premier League,Malta,2026-05-16,P. Mbong,1628.4
+579,Buducnost Podgorica,1477,First League,Montenegro,2026-03-15,M. Mijatović,1677.6
+321,Lillestrom,1475,Eliteserien,Norway,2026-05-25,U. Yttergård Jenssen,1746.5
+6219,K. Lierse S.K.,1475,Challenger Pro League,Belgium,2026-04-17,N. Mayoka-Tika,1678.9
+301,JEF United Chiba,1474,J1 League,Japan,2026-06-06,K. Toriumi,1758.5
+3424,Krasava Ypsonas,1474,1. Division,Cyprus,2026-05-17,I. Chebake,1698.0
+5490,Kapaz,1473,Premyer Liqa,Azerbaijan,2026-05-23,Y. İmanov,1636.8
+766,Halmstad,1473,Allsvenskan,Sweden,2026-05-30,R. Kaib,1702.8
+102,Nancy,1473,Ligue 2,France,2026-05-09,F. Maouassa,2016.0
+1126,Deportivo Pasto,1472,Primera A,Colombia,2026-05-13,N. Gil,1918.2
+423,FC OSS,1472,Eerste Divisie,Netherlands,2026-04-24,Q. Martinus,1581.8
+403,Esbjerg,1472,1. Division,Denmark,2026-05-31,R. McCrorie,1654.1
+1388,Dunfermline,1471,Championship,Scotland,2026-05-15,R. Fraser,1704.7
+10492,ADT,1469,Primera División,Peru,,G. Dulanto,1899.3
+3632,Ruh Lviv,1468,Premier League,Ukraine,2026-05-24,Y. Kopyna,1739.8
+663,FK Rabotnicki,1468,First League,Macedonia,2026-05-25,F. Ondoa,1747.4
+3840,Bohemians,1466,Premier Division,Ireland,2026-05-29,D. Devoy,1680.7
+2555,Sport Huancayo,1465,Primera División,Peru,,Á. Zamudio,1718.4
+4212,Kokand-1912,1465,Super League,Uzbekistan,2023-12-05,A. Filiposyan,1643.3
+692,Ordabasy,1464,Premier League,Kazakhstan,2025-07-17,A. Besedin,1733.6
+5503,Sumqayıt,1462,Premyer Liqa,Azerbaijan,2026-05-22,B. Abdukholikov,1828.3
+2544,Sport Boys,1462,Primera División,Peru,,J. Alarcón,1682.6
+18762,Libertad,1461,Liga Pro,Ecuador,,K. Becerra,1757.0
+385,Torpedo Zhodino,1461,Premier League,Belarus,2025-07-31,P. Sedko,1691.5
+14007,Primorje,1460,1. SNL,Slovenia,2026-05-31,R. Požeg,1747.4
+2266,Cliftonville FC,1460,Premiership,Northern Ireland,2026-04-18,Rory Hale,1786.4
+3552,Zemplín Michalovce,1460,Super Liga,Slovakia,2026-05-16,N. Mihhailov,1834.9
+3505,Gagra,1460,Erovnuli Liga,Georgia,2021-07-15,V. Gvilia,1713.0
+1404,SKU Amstetten,1460,2. Liga,Austria,2026-05-14,T. Mayer,1646.0
+3874,Panevėžys,1459,A Lyga,Lithuania,2024-08-29,A. Smith,1665.9
+2619,Cavalry FC,1458,Canadian Premier League,Canada,,D. Klomp,1689.9
+2867,Dibba Al-Fujairah,1457,Pro League,UAE,2026-05-16,Iago Santos,1844.6
+14651,Ceramica Cleopatra,1457,Premier League,Egypt,2026-05-20,F. Lakay,1651.8
+2669,Amazulu,1456,Premier Soccer League,South Africa,2026-05-23,R. Ofori,1680.8
+424,Helmond Sport,1455,Eerste Divisie,Netherlands,2026-04-24,L. Semić,1706.2
+582,Alashkert,1455,Premier League,Armenia,2026-05-02,A. Beglaryan,1662.2
+4676,Kolding IF,1455,1. Division,Denmark,2026-05-31,A. Leifsson,1739.2
+10244,Seraing United,1454,Challenger Pro League,Belgium,2026-04-17,H. Camara,1645.4
+3548,Podbrezová,1454,Super Liga,Slovakia,2026-05-16,R. Šiler,1654.2
+17162,Livyi Bereh,1452,Persha Liga,Ukraine,2026-06-05,D. Shastal,1553.2
+2572,Club Deportivo Los Chankas,1452,Primera División,Peru,,,
+6220,Liège,1451,Challenger Pro League,Belgium,2026-04-27,J. Belin,1686.0
+87,Amiens,1451,Ligue 2,France,2026-05-09,J. Mlakar,1863.5
+3381,Velež,1451,Premijer Liga,Bosnia,2026-05-26,B. Šerbečić,1696.6
+2369,Cerro Largo,1450,Primera División - Apertura,Uruguay,2025-06-30,A. Di Pippa,1665.0
+5570,Imisli FK,1449,Premyer Liqa,Azerbaijan,2026-05-24,Juninho,1623.9
+649,HJK Helsinki,1449,Veikkausliiga,Finland,2026-05-30,L. Lappalainen,1852.7
+2656,Cukaricki,1448,Super Liga,Serbia,2026-05-22,S. Mijailović,1828.8
+2791,Prachuap,1447,Thai League 1,Thailand,2026-05-10,Édgar Méndez,1659.4
+278,Vikingur Reykjavik,1447,Úrvalsdeild,Iceland,2025-08-14,G. Vatnhamar,1790.5
+386,Dinamo Brest,1445,Premier League,Belarus,2025-07-17,Aleksandr Demeshko,1668.2
+670,Derry City,1445,Premier Division,Ireland,2026-05-29,B. Maher,1728.0
+668,Ballymena United,1444,Premiership,Northern Ireland,2026-04-18,F. Sule,1738.6
+325,Tromso,1443,Eliteserien,Norway,2026-05-29,L. Olden Larsen,1807.0
+2564,Atletico Grau,1443,Primera División,Peru,,C. Olivares,1558.3
+4378,Radomlje,1442,1. SNL,Slovenia,2026-05-22,M. Žaper,1871.3
+1652,SSV Ulm 1846,1442,3. Liga,Germany,2026-05-16,R. Leipertz,1785.2
+3969,Club Atlético Güemes,1442,Primera Nacional,Argentina,,M. Cardozo,1848.2
+673,Sutjeska,1442,First League,Montenegro,2026-03-15,A. Šćekić,1663.9
+14128,Lokeren-Temse,1440,Challenger Pro League,Belgium,2026-04-17,S. Brebels,1621.7
+858,Lokomotiv Plovdiv,1436,First League,Bulgaria,2026-05-29,P. Stępiński,1632.6
+1462,Deportivo Pereira,1436,Primera A,Colombia,2026-05-03,J. Moya,1770.9
+10088,Uthai Thani,1436,Thai League 1,Thailand,2026-05-10,Leandro Ribeiro,1559.8
+1163,Ilves,1435,Veikkausliiga,Finland,2026-05-30,S. Väisänen,1826.0
+2771,Chiangrai United,1434,Thai League 1,Thailand,2026-05-10,I. Enomoto,1736.6
+3830,Forge,1434,Canadian Premier League,Canada,,V. Klonaridis,1679.2
+2117,Fram Reykjavik,1434,Úrvalsdeild,Iceland,,S. Tibbling,1540.3
+3412,Ethnikos Achna,1433,1. Division,Cyprus,2026-05-15,L. Bijker,1731.1
+422,FC Eindhoven,1433,Eerste Divisie,Netherlands,2026-04-24,Y. Mokhtar,1555.8
+4488,Hapoel Petah Tikva,1432,Ligat Ha'al,Israel,2026-05-19,A. Moucketou-Moussounda,1724.6
+14130,Club Brugge II,1432,Challenger Pro League,Belgium,2026-04-11,A. Garcia,1700.4
+4633,Zimbru,1432,Super Liga,Moldova,2026-05-10,Josep Gayá,1664.7
+394,Dinamo Minsk,1431,Premier League,Belarus,2025-07-31,I. Konovalov,1673.7
+16611,Zhenys,1430,Premier League,Kazakhstan,,A. Manaj,1681.4
+580,Vikingur Gota,1430,Meistaradeildin,Faroe Islands,2025-08-14,A. Svensson,1674.0
+2393,Diosgyori VTK,1428,NB I,Hungary,2026-05-16,M. Lund,1681.0
+5805,Francs Borains,1428,Challenger Pro League,Belgium,2026-04-17,M. Fixelles,1559.1
+3861,Hegelmann Litauen,1428,A Lyga,Lithuania,2025-07-17,N. Kader,1604.7
+371,IF Brommapojkarna,1427,Allsvenskan,Sweden,2026-05-31,M. Hansen,1957.3
+14507,Marsaxlokk,1427,Premier League,Malta,2026-05-16,C. Mafoumbi,1612.9
+2271,Petrocub,1426,Super Liga,Moldova,2026-05-10,R. Abalora,1572.6
+5351,Dungannon Swifts,1425,Premiership,Northern Ireland,2026-04-18,T. Kelly,1545.3
+4358,Aluminij,1424,1. SNL,Slovenia,2026-05-23,M. Rožman,1691.9
+4197,Mura,1424,1. SNL,Slovenia,2026-05-22,L. Bobičanec,1758.7
+2759,Gwangju FC,1423,K League 1,South Korea,2026-05-16,Kim Gyeong-Jae,1809.5
+4224,Dinamo Samarqand,1423,Super League,Uzbekistan,2024-11-30,Vladimir Kozak,1815.7
+3842,Sligo Rovers,1423,Premier Division,Ireland,2026-05-29,S. Blaney,1596.5
+2163,IFK Varnamo,1422,Superettan,Sweden,2025-11-09,M. Antonsson,1566.9
+4208,Young Lions,1421,Premier League,Singapore,2026-05-16,I. Mahbud,1870.2
+19685,KAA Gent II,1421,Challenger Pro League,Belgium,2026-04-17,G. De Meyer,1636.0
+22213,WSPG Wels,1421,2. Liga,Austria,2026-05-14,K. Conté,1624.3
+3884,Hibernians,1420,Premier League,Malta,2026-03-14,Š. Žužul,1741.4
+1400,FC Liefering,1420,2. Liga,Austria,2026-05-14,Douglas Mendes,1591.5
+10430,Imigresen,1418,Super League,Malaysia,2026-05-16,Z. Arifin,1759.5
+15537,Sekhukhune United,1417,Premier Soccer League,South Africa,2026-05-23,R. Coetzee,1954.0
+4135,Auda,1417,Virsliga,Latvia,2025-07-16,Rafael Silva,1763.4
+276,Breidablik,1416,Úrvalsdeild,Iceland,2025-12-18,A. Bjarnason,1702.0
+856,Septemvri Sofia,1415,First League,Bulgaria,2026-05-28,R. Schouten,1613.0
+3406,Akritas,1415,1. Division,Cyprus,2026-05-15,B. Manu,1708.7
+2697,Cape Town City,1415,Premier Soccer League,South Africa,2026-06-06,M. van der Hart,1861.1
+3700,Always Ready,1415,Primera División,Bolivia,,A. Rambal,1798.1
+1387,Ayr Utd,1415,Championship,Scotland,2026-04-25,L. King,1705.6
+2690,Golden Arrows,1414,Premier Soccer League,South Africa,2026-05-23,M. Mbaeva,1703.2
+5350,Carrick Rangers,1414,Premiership,Northern Ireland,2026-04-18,M. Olosunde,1627.2
+425,Jong Ajax,1414,Eerste Divisie,Netherlands,2026-04-24,J. Heerkens,1609.6
+1141,Alianza Valledupar,1413,Primera A,Colombia,2026-05-03,J. Chaverra,1674.7
+4221,Qizilqum,1413,Super League,Uzbekistan,2024-11-30,S. Fayziev,1652.7
+332,Sandefjord,1412,Eliteserien,Norway,2026-05-30,V. Egeli,1719.8
+2517,Kuala Lumpur FA,1412,Super League,Malaysia,2026-05-17,Safawi Rasid,1743.9
+2504,Penang,1412,Super League,Malaysia,2026-04-26,S. Brundo,1679.0
+2172,Degerfors IF,1411,Allsvenskan,Sweden,2026-05-31,D. Sundgren,1685.4
+26299,Siwelele,1411,Premier Soccer League,South Africa,2026-05-23,R. Goss,1628.9
+3477,Kerala Blasters,1411,Indian Super League,India,2026-05-18,F. Feuillassier,1641.3
+190,Erzgebirge Aue,1410,3. Liga,Germany,2026-05-16,J. Collins,1745.5
+4628,Sliema Wanderers,1410,Premier League,Malta,2026-04-26,J. Borg,1580.2
+2362,Cerro,1408,Primera División - Apertura,Uruguay,2025-06-28,M. Peralta,1707.7
+14146,Posušje,1408,Premijer Liga,Bosnia,2026-05-26,K. Kamenar,1773.7
+682,NSI Runavik,1408,Meistaradeildin,Faroe Islands,2025-07-17,B. Hendriksson,1635.9
+661,FK Liepaja,1408,Virsliga,Latvia,2024-07-18,A. Zárate,1619.4
+272,KA Akureyri,1408,Úrvalsdeild,Iceland,2025-07-31,B. Ingason,1569.6
+320,Kristiansund BK,1407,Eliteserien,Norway,2026-05-29,A. Munksgaard,1595.7
+859,Botev Vratsa,1407,First League,Bulgaria,2026-05-22,K. Malinov,1713.5
+1149,Delfin SC,1406,Liga Pro,Ecuador,,C. Cuero,1699.3
+2143,KFUM Oslo,1405,Eliteserien,Norway,2026-05-29,D. Hickson,1677.3
+2518,Terengganu,1405,Super League,Malaysia,2026-04-25,N. Tukhtasinov,1791.7
+22218,CODM Meknès,1405,Botola Pro,Morocco,2026-06-01,Reda Bounaga,1625.6
+3479,NorthEast United,1404,Indian Super League,India,2026-05-19,Guillermo Fernández,1699.4
+378,IFK Norrkoping,1404,Superettan,Sweden,2025-11-29,D. Moberg Karlsson,1733.9
+2174,Osters IF,1404,Superettan,Sweden,2025-11-09,M. Christensen,1692.5
+2410,Kazincbarcikai,1403,NB I,Hungary,2026-05-15,S. Rasheed,1616.6
+14441,Yarud Mariupol',1403,Persha Liga,Ukraine,2026-05-23,P. Orikhovskyi,1620.5
+380,FC Minsk,1403,Premier League,Belarus,,A. Gutor,1565.0
+902,Ross County,1403,Championship,Scotland,2026-04-25,N. Chilvers,1737.6
+6572,Lamphun Warrior,1402,Thai League 1,Thailand,2026-05-10,Ricardo Lopes,1760.2
+977,FUS Rabat,1402,Botola Pro,Morocco,2026-06-04,A. Lakred,1720.3
+3476,Jamshedpur,1402,Indian Super League,India,2026-05-21,S. Das,1572.4
+5000,Austria Salzburg,1400,2. Liga,Austria,2026-05-08,F. Rieder,1664.0
+642,Siroki Brijeg,1399,Premijer Liga,Bosnia,2026-05-10,Z. Kožulj,1660.2
+17760,San Antonio Bulo Bulo,1399,Primera División,Bolivia,,A. Terrazas,1737.1
+3850,Drogheda United,1399,Premier Division,Ireland,2026-05-29,B. Kavanagh,1590.3
+751,Slavia Mozyr,1398,Premier League,Belarus,,A. Makavchik,1595.8
+586,FK Zalgiris Vilnius,1398,A Lyga,Lithuania,2025-07-31,G. Matulevičius,1730.1
+1132,Chico,1397,Primera A,Colombia,2026-05-02,J. Díaz,1568.7
+2797,Rayong FC,1397,Thai League 1,Thailand,2026-05-10,João Afonso,1673.8
+2370,Deportivo Maldonado,1395,Primera División - Apertura,Uruguay,2024-07-27,H. Petryk,1514.5
+1133,Jaguares,1395,Primera A,Colombia,2026-05-02,Y. Moreno,1739.3
+6501,Veres Rivne,1394,Premier League,Ukraine,2026-05-24,I. Kharatin,1683.5
+2365,Atletico Torque,1394,Primera División - Apertura,Uruguay,2025-06-29,P. Siles,1558.4
+2352,Danubio,1394,Primera División - Apertura,Uruguay,2025-06-29,E. Velázquez,1755.7
+2360,Wanderers,1394,Primera División - Apertura,Uruguay,2025-06-28,E. Obregón,1604.5
+973,Hassania Agadir,1394,Botola Pro,Morocco,2026-06-04,M. Cisse,1643.7
+659,Valletta FC,1394,Premier League,Malta,2026-04-26,Y. Yankam,1517.2
+22479,Juan Pablo II College,1393,Primera División,Peru,,N. Loyola,1748.2
+2275,Glenavon FC,1393,Premiership,Northern Ireland,2026-04-18,R. Marshall,1619.6
+3740,Mornar,1393,First League,Montenegro,2026-03-15,M. Vučić,1539.1
+3860,Džiugas Telšiai,1392,A Lyga,Lithuania,,K. Šilkaitis,1535.6
+3619,Oleksandria,1390,Premier League,Ukraine,2026-06-05,A. Kozak,1777.4
+2745,Bucheon FC 1995,1390,K League 1,South Korea,2026-05-17,Patrick William,1799.5
+2558,Comerciantes Unidos,1389,Primera División,Peru,,Y. Vílchez,1803.7
+1405,Austria Klagenfurt,1389,2. Liga,Austria,2026-05-14,Martin Josef Hinteregger,1991.8
+2657,Radnik Surdulica,1387,Super Liga,Serbia,2026-05-23,Nikola Vujanac,1679.9
+18051,Kanchanaburi,1385,Thai League 1,Thailand,2026-05-10,A. Kumar,1878.8
+662,Kalju Nomme,1385,Meistriliiga,Estonia,2025-07-31,P. Marin,1666.2
+2036,UNA Strassen,1385,National Division,Luxembourg,2026-05-03,K. Özcan,1586.6
+7177,Odisha,1384,Indian Super League,India,2026-05-21,A. Singh,1598.0
+4213,Mash'al,1382,Super League,Uzbekistan,2021-12-02,Unknown (73578),1588.1
+1385,Raith Rovers,1382,Championship,Scotland,2026-04-11,J. MacDonald,1613.9
+1151,Tecnico Universitario,1380,Liga Pro,Ecuador,,C. Pérez,1708.3
+2358,Liverpool Montevideo,1379,Primera División - Apertura,Uruguay,2025-06-28,J. Rosso,1726.4
+2623,York United,1379,Canadian Premier League,Canada,,Unknown (78437),1892.2
+757,Aalesund,1378,Eliteserien,Norway,2026-05-29,K. Klaesson,1839.7
+10108,Kuching FA,1378,Super League,Malaysia,2026-05-17,Arif Fadzilah Abu Bakar,1782.6
+3870,Šiauliai,1378,A Lyga,Lithuania,2024-07-18,D. Romanovskij,1478.6
+6009,B 93,1377,1. Division,Denmark,2026-05-23,J. Okore,1792.3
+10169,Atlético Ottawa,1377,Canadian Premier League,Canada,,B. Tabla,1716.2
+4194,Akademija Pandev,1374,First League,Macedonia,2026-05-31,S. Naumcheski,1675.3
+1031,AL Masry,1374,Premier League,Egypt,2026-05-20,M. Zeidan,1667.1
+3745,Dečić,1374,First League,Montenegro,2026-05-10,N. Braunović,1573.5
+4209,Andijan,1373,Super League,Uzbekistan,2025-12-24,S. Erkinov,1699.2
+5348,Portadown,1371,Premiership,Northern Ireland,2026-04-18,A. McCarey,1713.9
+2277,Birkirkara,1371,Premier League,Malta,2026-04-11,A. Sandoná,1673.5
+408,Hobro,1371,1. Division,Denmark,2026-04-26,Mads Lykke Eriksen,1465.1
+857,Beroe,1370,First League,Bulgaria,2026-05-22,M. Diallo,1551.7
+2539,UTC Cajamarca,1370,Primera División,Peru,,,
+24757,Durban City,1370,Premier Soccer League,South Africa,2026-05-23,T. Mashego,1820.4
+1147,Fortaleza FC,1369,Primera A,Colombia,2026-05-03,A. Arroyo,1768.3
+975,Olympique Safi,1368,Botola Pro,Morocco,2026-06-01,Z. Belmaachi,1811.7
+22266,Gualberto Villarroel SJ,1368,Primera División,Bolivia,,F. Andrada,1648.4
+4554,Kyzyl-Zhar,1367,Premier League,Kazakhstan,2022-08-11,Ruslan Valiullin,1569.9
+6004,Aarhus Fremad,1367,1. Division,Denmark,2026-05-09,Luka Callø,1585.4
+275,Stjarnan,1367,Úrvalsdeild,Iceland,2024-08-01,S. Caulker,1707.6
+357,GAP Connah S Quay FC,1367,Premier League,Wales,2026-04-03,H. Franklin,1560.5
+4133,HB Torshavn,1366,Meistaradeildin,Faroe Islands,2025-07-31,,
+305,Mito Hollyhock,1365,J1 League,Japan,2026-06-06,S. Inoue,1603.2
+666,Şamaxı FK,1365,Premyer Liqa,Azerbaijan,2026-05-16,Ricardo Fernandes,1548.6
+22153,Bashkimi Kumanovo,1365,First League,Macedonia,2026-05-24,E. Lichina,1624.6
+3473,Chennaiyin,1365,Indian Super League,India,2026-05-16,F. Diagne,1561.4
+811,Helsingborg,1365,Superettan,Sweden,2025-11-08,M. Svensson,1627.8
+6221,Olympic Charleroi,1362,Challenger Pro League,Belgium,2026-04-05,N. De Medina,1633.7
+904,CR Belouizdad,1362,Ligue 1,Algeria,2026-06-05,N. Khacef,1618.7
+2166,Orgryte IS,1361,Allsvenskan,Sweden,2026-05-29,R. Alm,1888.6
+3851,Galway United,1361,Premier Division,Ireland,2026-05-29,G. Cunningham,1683.6
+615,NK Domzale,1360,1. SNL,Slovenia,2025-12-05,Felipe Felício,1767.2
+1416,Lokomotiv Sofia,1358,First League,Bulgaria,2026-05-22,Jordon Ibe,1578.6
+3625,Inhulets,1358,Persha Liga,Ukraine,2026-05-23,Bohdan Shust,1550.9
+2786,Muangthong United,1356,Thai League 1,Thailand,2026-05-10,K. Omori,1752.0
+2262,Dinamo Tbilisi,1356,Erovnuli Liga,Georgia,2024-07-18,B. Osei,1707.3
+389,FC Gomel,1356,Premier League,Belarus,2022-07-27,D. Laptev,1549.2
+3858,Banga,1356,A Lyga,Lithuania,2025-07-31,Hugo Figueiredo,1444.3
+19046,RSC Anderlecht II,1355,Challenger Pro League,Belgium,2026-04-17,T. Foket,2027.5
+3706,Nacional Potosí,1354,Primera División,Bolivia,,Pedro Galindo,1610.0
+627,Qabala,1353,Premyer Liqa,Azerbaijan,2026-05-09,J. Fuchs,1646.5
+2361,Boston River,1353,Primera División - Apertura,Uruguay,2025-06-23,B. Barcia,1701.0
+1951,Central Norte,1353,Primera Nacional,Argentina,,T. Banega,1666.7
+3630,Obolon'-Brovar,1352,Premier League,Ukraine,2026-05-24,P. Polehenko,1676.9
+391,FC Isloch Minsk R.,1352,Premier League,Belarus,2024-07-11,D. Tweh,1562.5
+26963,SC Delhi,1351,Indian Super League,India,2026-05-21,Rafael Ribeiro,1563.2
+8247,Rapid Wien II,1351,2. Liga,Austria,2026-05-14,Tobias  Knoflach,1541.8
+4249,Arbroath,1349,Championship,Scotland,2026-05-08,S. Robinson,1554.3
+974,Ittihad Tanger,1347,Botola Pro,Morocco,2026-06-03,B. Gaddarine,1581.4
+1427,Dobrudzha,1345,First League,Bulgaria,2026-05-22,Tomás Silva,1666.1
+2803,Ayutthaya FC,1345,Thai League 1,Thailand,2026-05-10,Baek Sung-Dong,1532.6
+906,MC Alger,1345,Ligue 1,Algeria,2026-06-05,Z. Ferhat,1672.0
+1159,Guayaquil City FC,1343,Liga Pro,Ecuador,,Fernando Alexander Guerrero Vásquez,1570.1
+4560,Zhetysu,1342,Premier League,Kazakhstan,,Unknown (73615),1756.8
+3701,Blooming,1342,Primera División,Bolivia,,B. Uraezaña,1530.6
+3741,Petrovac,1342,First League,Montenegro,2026-05-10,N. Belaković,1562.6
+10567,Richards Bay,1341,Premier Soccer League,South Africa,2026-05-23,S. Magoola,1653.1
+689,SJK,1340,Veikkausliiga,Finland,2026-05-30,Murilo,1541.9
+2264,Gzira United,1339,Premier League,Malta,2026-04-26,Maxuell Samurai,1473.1
+612,Suduva Marijampole,1339,A Lyga,Lithuania,2022-07-28,Renan Oliveira,1687.4
+18657,Laagri,1337,Meistriliiga,Estonia,,K. Vallner,1828.9
+2324,Universidad de Concepcion,1333,Primera División,Chile,,E. Godoy,1455.7
+9342,Havelse,1332,3. Liga,Germany,2026-05-16,N. Boujellab,1568.9
+1401,SV Kapfenberg,1330,2. Liga,Austria,2026-05-14,R. Strebinger,1649.4
+356,Caernarfon Town,1329,Premier League,Wales,2026-04-03,C. Roberts,1625.9
+14806,UTS Rabat,1328,Botola Pro,Morocco,2026-06-01,M. Fouzair,1839.1
+1980,Manta FC,1327,Liga Pro,Ecuador,,W. Chávez,1614.1
+19045,KRC Genk II,1327,Challenger Pro League,Belgium,2026-04-17,Kang Min-Woo,1581.3
+3449,CR Khemis Zemamra,1326,Botola Pro,Morocco,2026-06-03,A. El Barki,1729.3
+412,MVV,1326,Eerste Divisie,Netherlands,2026-04-24,L. Schenk,1510.1
+693,Pelister,1326,First League,Macedonia,2026-05-31,S. Kostov,1723.2
+2063,HB Koge,1326,1. Division,Denmark,2026-05-24,Jonathon Patrick Flanagan,1639.7
+697,Crusaders FC,1324,Premiership,Northern Ireland,2026-04-28,J. Callacher,1593.9
+14437,Metal Kharkiv,1324,Persha Liga,Ukraine,2026-05-26,O. Myzyuk,1520.4
+334,Start,1322,Eliteserien,Norway,2026-05-29,M. Soomets,1722.0
+2082,Gnistan,1322,Veikkausliiga,Finland,2026-05-30,A. Obileye,1520.8
+4627,Mosta,1321,Premier League,Malta,2026-04-19,K. Yamazaki,1946.7
+658,Progres Niederkorn,1321,National Division,Luxembourg,2026-05-03,J. Schmid,1624.9
+4348,Tikveš,1320,First League,Macedonia,2026-05-25,D. Milovanovikj,1626.4
+4211,Buxoro,1319,Super League,Uzbekistan,2023-12-01,Unknown (103674),1688.9
+21953,Kudrivka,1318,Premier League,Ukraine,2026-06-05,A. Totovytskyi,1592.7
+2505,Sabah FA,1318,Super League,Malaysia,2026-05-09,T. Puchacz,2049.5
+21010,Ulytau,1318,Premier League,Kazakhstan,,S. Keiler,1535.1
+10017,Samgurali,1318,Erovnuli Liga,Georgia,,G. Pantsulaia,1510.1
+387,Neman,1318,Premier League,Belarus,2025-08-28,G. Alykulov,1638.5
+2698,Chippa United,1316,Premier Soccer League,South Africa,2026-05-23,Unknown (46561),1814.2
+4558,Okzhetpes,1316,Premier League,Kazakhstan,,T. Dosmagambetov,1442.3
+2274,Trans Narva,1313,Meistriliiga,Estonia,2023-07-20,J. Doke,1451.6
+2621,HFX Wanderers FC,1313,Canadian Premier League,Canada,,D. Henry,1601.9
+983,CS Sfaxien,1312,Ligue 1,Tunisia,2026-05-14,A. Maâloul,1747.3
+964,Difaa EL Jadida,1311,Botola Pro,Morocco,2026-06-04,O. Arjoune,1742.2
+8251,Sturm Graz II,1311,2. Liga,Austria,2026-05-14,N. Stošić,1605.0
+2693,Polokwane City,1310,Premier Soccer League,South Africa,2026-05-16,Unknown (46516),1710.7
+19753,Aresimi,1310,First League,Macedonia,2026-05-15,B. Velija,1552.1
+15570,National Bank of Egypt,1309,Premier League,Egypt,2026-05-29,Ayman Ashraf,1613.6
+1164,Inter Turku,1309,Veikkausliiga,Finland,2026-05-30,B. Straalman,1659.2
+8074,TS Galaxy,1303,Premier Soccer League,South Africa,2026-05-23,M. Munyai,1642.3
+4562,Kaisar,1303,Premier League,Kazakhstan,2020-09-17,Aybol Abiken,1541.8
+2500,Pdrm,1301,Super League,Malaysia,2026-05-17,I. Olusegun,1531.6
+382,FC Vitebsk,1301,Premier League,Belarus,2019-07-18,V. Gorbachik,1419.4
+15847,Atert Bissen,1301,National Division,Luxembourg,2026-05-03,M. Terki,1700.3
+691,Milsami Orhei,1300,Super Liga,Moldova,2026-04-26,V. Posmac,1528.5
+584,Dundalk,1299,Premier Division,Ireland,2026-05-29,B. Burns,1713.3
+910,USM Alger,1298,Ligue 1,Algeria,2026-06-06,H. Ghacha,1596.4
+4552,Kaspiy,1296,Premier League,Kazakhstan,,Unknown (98784),1846.1
+5611,Colwyn Bay,1296,Premier League,Wales,2026-04-03,R. Astles,1683.2
+578,F91 Dudelange,1295,National Division,Luxembourg,2026-05-17,Manuel Marouan da Costa Trindade Senoussi,1673.6
+854,Slavia Sofia,1294,First League,Bulgaria,2026-05-22,Y. Guermouche,1464.5
+20881,Vancouver FC,1294,Canadian Premier League,Canada,,G. Sandoval,1585.6
+388,Bate Borisov,1293,Premier League,Belarus,2023-08-31,D. Shcherbitskiy,1654.4
+22595,Inter Kashi,1289,Indian Super League,India,2026-05-21,P. Das,1596.4
+3620,Ahrobiznes Volochysk,1288,Premier League,Ukraine,2026-06-05,R. Pidkivka,1455.0
+1572,Al Ittihad,1288,Premier League,Egypt,2026-05-29,Mohamed Magdi Kafsha,1720.4
+15708,Real Tomayapo,1287,Primera División,Bolivia,,J. Orellana,1581.7
+20252,Real Oruro,1286,Primera División,Bolivia,,S. Zeballos,1496.6
+19999,Magesi,1285,Premier Soccer League,South Africa,2026-06-03,N. Makhubela,1616.7
+3359,Radnik Bijeljina,1284,Premijer Liga,Bosnia,2026-05-22,K. Cheshmedzhiev,2005.3
+2175,IK brage,1284,Superettan,Sweden,2025-11-08,F. Trpcevski,1384.0
+2037,US Mondorf-les-bains,1282,National Division,Luxembourg,2026-05-03,S. Daham,1500.5
+18878,TransINVEST Vilnius,1281,A Lyga,Lithuania,2024-08-01,A. Žulpa,1504.8
+1046,Wadi Degla,1280,Premier League,Egypt,2026-05-28,F. Boli,1765.8
+6778,Queen's Park,1280,Championship,Scotland,2026-04-25,E. Murray,1398.7
+1041,Petrojet,1279,Premier League,Egypt,2026-05-28,Samir Mohamed,1522.5
+3525,Vaprus,1278,Meistriliiga,Estonia,,M. Seppik,1544.8
+2860,Austria Vienna (Am),1277,2. Liga,Austria,2026-05-14,W. Vorsager,1607.2
+971,Kawkab Marrakech,1275,Botola Pro,Morocco,2026-06-01,Y. Zghoudi,1532.8
+1635,FC Schweinfurt 05,1274,3. Liga,Germany,2026-05-16,M. Wintzheimer,1571.0
+8259,Schwarz-Weiß Bregenz,1274,2. Liga,Austria,2026-05-14,D. Nussbaumer,1484.3
+2077,AC Oulu,1273,Veikkausliiga,Finland,2026-05-31,R. Karjalainen,1545.4
+3399,Enosis,1272,1. Division,Cyprus,2026-05-17,A. Kozar,1635.7
+1121,Vorskla Poltava,1272,Persha Liga,Ukraine,2026-05-30,V. Chesnakov,1619.7
+4660,Spartak Varna,1270,First League,Bulgaria,2026-05-22,Mateo Jurić-Petrašilo,1507.1
+25058,Yacoub El Mansour,1269,Botola Pro,Morocco,2026-06-03,Soufyan Ahannach,1530.9
+270,FH hafnarfjordur,1267,Úrvalsdeild,Iceland,2021-07-29,M. Rosenørn,1476.9
+2783,Sukhothai FC,1266,Thai League 1,Thailand,2026-05-10,Rafael Galhardo,1715.9
+2039,Rodange 91,1266,National Division,Luxembourg,2026-05-03,A. Skenderovic,1499.6
+13223,Viktoriya Mykolaivka,1265,Persha Liga,Ukraine,2026-05-23,O. Vasylyev,1498.7
+3704,Guabirá,1264,Primera División,Bolivia,,S. Paiva,1513.3
+4668,Airdrie United,1263,Championship,Scotland,2026-05-05,A. Devine,1669.5
+4564,Atyrau,1260,Premier League,Kazakhstan,,Pedro Eugénio,1761.4
+4605,Naxxar Lions,1260,Premier League,Malta,2026-04-26,M. Debono,1380.4
+14864,Spaeri,1260,Erovnuli Liga,Georgia,2025-07-31,D. Skhirtladze,1507.1
+2191,Penybont,1260,Premier League,Wales,2026-04-03,G. Kircough,1451.1
+14433,Chernihiv,1257,Persha Liga,Ukraine,2026-05-26,D. Bezborodko,1570.1
+918,JS Kabylie,1257,Ligue 1,Algeria,2026-06-05,B. Messaoudi,1778.5
+2176,Landskrona BoIS,1255,Superettan,Sweden,2025-11-08,F. Sachpekidis,1476.5
+6286,Van,1254,Premier League,Armenia,2026-05-02,A. Markovych,1531.1
+271,KR Reykjavik,1253,Úrvalsdeild,Iceland,2022-07-14,M. Akoto,1601.6
+2363,Progreso,1252,Primera División - Apertura,Uruguay,2025-06-22,L. Maldonado,1604.9
+7520,Masr,1252,Premier League,Egypt,2026-05-29,P. Mutumosi,1563.3
+3748,Jezero,1252,First League,Montenegro,2026-05-10,M. Perović,1412.1
+2171,Varbergs BoIS FC,1251,Superettan,Sweden,2025-11-08,L. Shabani,1516.1
+11112,Bangor,1249,Premiership,Northern Ireland,2026-04-18,S. Fallon,1708.3
+678,B36 Torshavn,1249,Meistaradeildin,Faroe Islands,2024-07-17,H. Vatnsdal,1681.4
+3631,Prykarpattia,1249,Persha Liga,Ukraine,2026-05-23,Y. Romanyuk,1569.8
+650,VPS,1249,Veikkausliiga,Finland,2026-05-30,J. Turfkruier,1629.3
+2030,Racing FC Union Luxembourg,1249,National Division,Luxembourg,2026-05-17,A. Delferrière,1484.7
+2502,Negeri Sembilan,1248,Super League,Malaysia,2026-05-16,Mohd Syahid bin Zaidon,1723.0
+3845,Waterford,1248,Premier Division,Ireland,2026-05-29,K. Long,1721.9
+1383,Morton,1248,Championship,Scotland,2026-04-25,C. MacPherson,1514.2
+3637,Aurora,1247,Primera División,Bolivia,,M. Ortega,1554.4
+3707,Oriente Petrolero,1247,Primera División,Bolivia,,R. Centurión,1838.1
+13847,Meshakhte,1246,Erovnuli Liga,Georgia,,E. Parkinashvili,1332.8
+268,IBV Vestmannaeyjar,1246,Úrvalsdeild,Iceland,2018-07-19,M. Zapytowski,1449.7
+8504,Sloga Doboj,1243,Premijer Liga,Bosnia,2026-05-26,R. Boakye,1706.2
+1037,Enppi,1243,Premier League,Egypt,2026-05-05,Kahraba,1698.3
+1019,Rudes,1240,HNL,Croatia,,Leonard Mesarić,1689.2
+361,Barry Town,1240,Premier League,Wales,2026-04-26,O. Hulbert,1356.3
+3575,Hatayspor,1238,1. Lig,Turkey,2026-05-01,F. Ghoulam,1835.3
+2682,Marumo Gallants,1238,Premier Soccer League,South Africa,2026-05-23,M. Rikhotso,1608.6
+17165,SK Poltava,1237,Premier League,Ukraine,2026-05-23,O. Pyatov,1513.1
+9419,Arsenal,1235,Premier League,Belarus,,David Raya,2767.9
+4544,Altay,1234,Premier League,Kazakhstan,,F. Çil,1570.0
+992,US Monastirienne,1234,Ligue 1,Tunisia,2026-05-14,A. Mohamed,1439.0
+4622,Zabbar St. Patrick,1232,Premier League,Malta,2026-05-05,K. Keqi,1466.7
+2622,Pacific FC,1230,Canadian Premier League,Canada,,A. Ndom,1421.5
+21038,Melaka,1223,Super League,Malaysia,2026-05-16,Samuel Jacob Somerville,1594.4
+1168,Turku PS,1223,Veikkausliiga,Finland,2026-05-30,L. Ivanovic,1469.6
+21957,UCSA,1220,Persha Liga,Ukraine,2026-05-23,R. Debelko,1800.8
+6493,Nyva Ternopil,1216,Persha Liga,Ukraine,2026-05-23,M. Mysyk,1491.2
+16431,Future FC,1216,Premier League,Egypt,2026-05-29,F. Okenabirhie,1441.0
+1166,Lahti,1212,Veikkausliiga,Finland,2026-05-30,Y. Cassubie,1586.6
+827,IA Akranes,1212,Úrvalsdeild,Iceland,,J. Gemmer,1510.8
+373,GIF Sundsvall,1210,Superettan,Sweden,2025-11-08,T. Kagayama,1404.1
+2773,Nakhon Ratchasima FC,1209,Thai League 1,Thailand,2026-05-10,J. Gallagher,1662.1
+15702,Independiente Petrolero,1209,Primera División,Bolivia,,R. Gómez,1595.0
+1575,El Mokawloon,1209,Premier League,Egypt,2026-05-29,Mohamed Adel,1557.7
+376,Ostersunds FK,1209,Superettan,Sweden,2025-11-08,R. Forsell,1416.6
+1044,Smouha SC,1208,Premier League,Egypt,2026-05-20,O. Ajayi,1569.8
+4565,Irtysh,1207,Premier League,Kazakhstan,,Unknown (111425),1311.6
+990,ES Sahel,1205,Ligue 1,Tunisia,2026-05-14,N. Hnid,1593.7
+750,Naftan,1205,Premier League,Belarus,,R. Paparyga,1507.3
+2034,AS Jeunesse Esch,1203,National Division,Luxembourg,2026-05-17,A. Amodio,1399.9
+365,Orebro SK,1200,Superettan,Sweden,2025-11-23,J. Baffoe,1498.3
+17762,Universitario de Vinto,1198,Primera División,Bolivia,,B. Cabezas,1427.2
+4149,BFC Daugavpils,1197,Virsliga,Latvia,2025-07-17,A. Zjuzins,1369.0
+638,FK Trakai,1195,A Lyga,Lithuania,2020-09-17,L. Koberidze,1488.1
+3377,Rudar Prijedor,1194,Premijer Liga,Bosnia,2026-05-26,M. Ritzmaier,1555.8
+10582,Orbit College,1194,Premier Soccer League,South Africa,2026-05-23,B. Onyango,1749.7
+6697,Sandviken,1194,Superettan,Sweden,2025-11-08,C. Redenstrand,1313.2
+3742,Arsenal Tivat,1194,First League,Montenegro,2026-03-15,L. Pecelj,1382.6
+4186,B68,1193,Meistaradeildin,Faroe Islands,,J. Vilhelmsen,1391.9
+3530,Tammeka,1193,Meistriliiga,Estonia,,Mait Toom,1510.7
+2035,UN Kaerjeng 97,1193,National Division,Luxembourg,2026-05-17,L. Gerson,1460.7
+6495,Podillya Khmelnytskyi,1192,Persha Liga,Ukraine,2026-05-30,Y. Kozyrenko,1552.1
+1574,El Gouna FC,1188,Premier League,Egypt,2026-05-28,Kim Han-Seo,1540.2
+11674,Oddevold,1187,Superettan,Sweden,2025-11-08,A. Ejupi,1502.8
+10368,AS Marsa,1186,Ligue 1,Tunisia,2026-05-12,S. Mestari,1280.7
+4177,EB / Streymur,1184,Meistaradeildin,Faroe Islands,,B. Dabo,1358.7
+17743,ABB,1178,Primera División,Bolivia,,P. Meza,1447.1
+688,Gandzasar,1176,Premier League,Armenia,2026-05-27,V. Minasyan,1399.5
+6042,Middelfart,1175,1. Division,Denmark,2026-05-23,L. Jensen,1496.1
+2038,Victoria Rosport,1172,National Division,Luxembourg,2026-05-17,J. Dossou,1573.2
+11239,Karvan,1169,Premyer Liqa,Azerbaijan,2026-05-24,S. Durrant,1383.4
+1424,Montana,1165,First League,Bulgaria,2026-05-22,David Carmona,1624.4
+988,Club Africain,1165,Ligue 1,Tunisia,2026-05-14,M. Zemzemi,1410.5
+13819,Ghazl El Mehalla,1164,Premier League,Egypt,2026-05-29,Ahmed Shousha,1306.7
+10077,Tanjong Pagar,1162,Premier League,Singapore,2026-05-18,Muhammad Aqhari bin Abdullah,1845.7
+20458,Kahraba Ismailia,1158,Premier League,Egypt,2026-05-29,M. Abouzraa,1278.5
+3744,Bokelj,1158,First League,Montenegro,2026-05-10,S. Balić,1440.2
+6279,BKMA,1153,Premier League,Armenia,2026-05-17,M. Ayvazyan,1328.9
+3526,Kuressaare,1149,Meistriliiga,Estonia,,K. Nõmm,1347.9
+812,Falkenbergs FF,1148,Superettan,Sweden,2025-11-08,H. Nilsson,1329.0
+10107,Kelantan United,1147,Super League,Malaysia,2026-05-16,Ilham Amirullah Razali,1540.5
+3384,Belshina,1147,Premier League,Belarus,,Unknown (76528),1739.0
+3747,Jedinstvo,1147,First League,Montenegro,2026-05-10,A. Cvijović,1335.1
+24568,Probiy Horodenka,1141,Persha Liga,Ukraine,2026-05-23,A. Lyashenko,1471.1
+2173,Norrby IF,1141,Superettan,Sweden,2025-11-23,A. Yusuf,1238.3
+14008,CSF Bălți,1140,Super Liga,Moldova,2026-04-05,C. Cotogoi,1349.4
+16749,Mladost DG,1139,First League,Montenegro,2026-05-10,K. Vulaj,1256.4
+587,Mariehamn,1132,Veikkausliiga,Finland,2026-05-30,A. Muskwe,1666.0
+6253,AS Soliman,1132,Ligue 1,Tunisia,2026-05-14,M. Ben Chérifia,1443.2
+18834,FS Jelgava,1130,Virsliga,Latvia,,M. Hašek,1510.7
+4174,07 Vestur,1129,Meistaradeildin,Faroe Islands,,F. Holst,1662.7
+1039,El Geish,1128,Premier League,Egypt,2026-05-28,Francis Kazadi Kasengu,1284.8
+4144,Tukums,1127,Virsliga,Latvia,,M. Kuchynskyi,1376.9
+1576,Haras El Hodood,1123,Premier League,Egypt,2026-05-29,Kouassi Kouadja,1515.2
+4629,Tarxien Rainbows,1116,Premier League,Malta,2026-05-05,P. Schmidt,1472.4
+5627,Metalurh Zaporizhya,1116,Persha Liga,Ukraine,2026-06-02,A. Sitalo,1474.8
+981,CA Bizertin,1111,Ligue 1,Tunisia,2026-05-13,M. Nourani,1556.9
+11907,Swift Hesperange,1108,National Division,Luxembourg,2026-05-03,B. Nouvier,1626.1
+2040,US Hostert,1103,National Division,Luxembourg,2026-05-17,D. Besch,1217.5
+15736,Pharco,1097,Premier League,Egypt,2026-05-28,Z. El Moutaraji,1637.4
+269,Keflavik,1094,Úrvalsdeild,Iceland,,O. Kovtun,1299.5
+3501,Rustavi,1091,Erovnuli Liga,Georgia,,D. Kvirkvelia,1334.9
+3682,Ararat,1089,Premier League,Armenia,2026-05-19,Lukman Haruna Abdulkarim,1730.8
+384,FC Dnepr Mogilev,1085,Premier League,Belarus,,A. Shepelev,1457.3
+905,ES Setif,1082,Ligue 1,Algeria,2026-04-05,M. Salifu,1457.9
+15585,Mohammedan,1080,Indian Super League,India,2026-05-19,F. Ogier,1474.5
+907,MC Oran,1078,Ligue 1,Algeria,2026-04-03,M. Zeghba,1895.1
+3686,Shirak,1077,Premier League,Armenia,2026-05-18,Spasoje Stefanović,1790.3
+10752,Khenchela,1075,Ligue 1,Algeria,2026-04-05,F. Etouga,1233.8
+3563,Adana Demirspor,1067,1. Lig,Turkey,2026-05-01,A. Stokes,1776.4
+1030,Ismaily SC,1051,Premier League,Egypt,2026-05-28,Unknown (550411),1711.8
+911,CS Constantine,1047,Ligue 1,Algeria,2026-04-03,D. Bizimana,1703.6
+2032,Union Titus Petange,1046,National Division,Luxembourg,2026-05-03,K. Tekiela,1432.4
+2075,FF Jaro,1041,Veikkausliiga,Finland,2026-05-31,M. Kusu,1374.0
+1070,Mostaganem,1040,Ligue 1,Algeria,2026-04-05,M. Zeffane,1664.0
+10059,Nõmme United,1039,Meistriliiga,Estonia,,M. Järviste,1178.9
+991,Stade Tunisien,1039,Ligue 1,Tunisia,2026-05-03,A. Dia N'diaye,1371.8
+10780,Olympique Akbou,1036,Ligue 1,Algeria,2026-04-28,O. Darfalou,1682.2
+914,JS Saoura,1035,Ligue 1,Algeria,2026-04-05,H. Selmi,1376.0
+4143,Super Nova,1030,Virsliga,Latvia,,E. Emsis,1396.1
+2029,Jeunesse Canach,1022,National Division,Luxembourg,2026-05-03,M. Deville,1167.4
+4138,Grobiņa,1021,Virsliga,Latvia,,K. Mikuļskis,1250.6
+989,ES Zarzis,971,Ligue 1,Tunisia,2026-05-13,D. Nyengue,1071.7
+931,ASO Chlef,952,Ligue 1,Algeria,2026-04-05,A. Debbari,1177.8
+4184,AB,922,Meistaradeildin,Faroe Islands,,S. Lebus,1389.8
+5375,Dacia-Buiucani,918,Super Liga,Moldova,2026-05-03,E. Zasavițchi,1121.6
+986,US Ben Guerdane,913,Ligue 1,Tunisia,2026-05-14,G. Abderrazek,1112.7
+993,JS Kairouanaise,909,Ligue 1,Tunisia,2026-05-14,Abdoulaye Kanou,1210.2
+15882,Mamer,906,National Division,Luxembourg,2026-05-03,Unknown (544377),946.1
+4191,Skála,900,Meistaradeildin,Faroe Islands,,M. Effiom,1114.4
+2265,Shkupi 1927,892,First League,Macedonia,2026-05-24,B. Sheji,1805.9
+984,ES Metlaoui,887,Ligue 1,Tunisia,2026-05-14,,
+5380,Spartanii Selemet,886,Super Liga,Moldova,2025-11-30,A. Dedov,1281.9
+10792,Ben Aknoun,859,Ligue 1,Algeria,2026-04-05,Abderrahmane Hachoud,1080.2
+915,Paradou AC,858,Ligue 1,Algeria,2026-04-05,T. Moussaoui,1142.4
+26115,Politehnica UTM,856,Super Liga,Moldova,2025-11-30,R. Lucian,1147.4
+10625,Olympique Béja,833,Ligue 1,Tunisia,2026-05-14,,
+10777,MB Rouisset,761,Ligue 1,Algeria,2026-04-03,H. Fatawu,1001.0
+10743,El Bayadh,761,Ligue 1,Algeria,2026-04-05,,
+987,AS Gabes,552,Ligue 1,Tunisia,2026-05-13,,
