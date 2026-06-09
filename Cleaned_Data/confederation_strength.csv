@@ -1,0 +1,49 @@
+team,confederation,conf_strength
+England,UEFA,1.0
+Scotland,UEFA,1.0
+Argentina,CONMEBOL,0.9
+Austria,UEFA,1.0
+Uruguay,CONMEBOL,0.9
+Belgium,UEFA,1.0
+France,UEFA,1.0
+Netherlands,UEFA,1.0
+Switzerland,UEFA,1.0
+South Africa,CAF,0.75
+Germany,UEFA,1.0
+Sweden,UEFA,1.0
+Norway,UEFA,1.0
+Brazil,CONMEBOL,0.9
+United States,CONCACAF,0.65
+Japan,AFC,0.75
+Paraguay,CONMEBOL,0.9
+Spain,UEFA,1.0
+Czechia,UEFA,1.0
+Egypt,CAF,0.75
+Portugal,UEFA,1.0
+Australia,AFC,0.75
+New Zealand,OFC,0.5
+Mexico,CONCACAF,0.65
+Turkey,UEFA,1.0
+Curaçao,CONCACAF,0.65
+Canada,CONCACAF,0.65
+Haiti,CONCACAF,0.65
+Algeria,CAF,0.75
+Tunisia,CAF,0.75
+Colombia,CONMEBOL,0.9
+Ecuador,CONMEBOL,0.9
+Panama,CONCACAF,0.65
+Croatia,UEFA,1.0
+Iran,AFC,0.75
+South Korea,AFC,0.75
+Iraq,AFC,0.75
+DR Congo,CAF,0.75
+Jordan,AFC,0.75
+Ivory Coast,CAF,0.75
+Morocco,CAF,0.75
+Ghana,CAF,0.75
+Saudi Arabia,AFC,0.75
+Senegal,CAF,0.75
+Cape Verde,CAF,0.75
+Qatar,AFC,0.75
+Uzbekistan,AFC,0.75
+Bosnia and Herzegovina,UEFA,1.0
