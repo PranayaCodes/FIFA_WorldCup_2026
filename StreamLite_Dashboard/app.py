@@ -111,7 +111,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-BASE = r'C:\Project\FIFA_World_Cup_2026'
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 @st.cache_resource
 def load_models():
