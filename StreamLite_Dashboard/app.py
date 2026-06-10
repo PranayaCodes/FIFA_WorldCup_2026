@@ -450,7 +450,7 @@ st.sidebar.markdown(f"""
 </div>
 """, unsafe_allow_html=True)
 
-# ── PAGE 1: PREDICTIONS ───────────────────────────────────────────────────────
+# PAGE 1: PREDICTIONS 
 if page == "Predictions":
     st.markdown(f"""
     <div style='display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:4px;'>
@@ -460,7 +460,7 @@ if page == "Predictions":
         <span class='timestamp-badge'><i class='fas fa-clock'></i> Updated {datetime.now().strftime("%d %b %Y").lstrip("0")}</span>
     </div>
     <h1 style='color:#f1f5f9; margin:0 0 4px;'>Winner Predictions</h1>
-    <p class='hero-sub'>10,000 Monte Carlo simulations — ELO ratings, player strength, head-to-head records &amp; squad age</p>
+    <p class='hero-sub'>10,000 Monte Carlo simulations  ELO ratings, player strength, head-to-head records &amp; squad age</p>
     """, unsafe_allow_html=True)
 
     top5 = predictions.head(5)
@@ -499,7 +499,7 @@ if page == "Predictions":
             ax.text(val * 1.04, bar.get_y() + bar.get_height() / 2, f'{val:.1f}%', va='center', ha='left', color='#94a3b8', fontsize=9)
         ax.set_xscale('log')
         ax.xaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f'{x:.0f}%'))
-        ax.set_xlabel('Win Probability — log scale', color='#64748b', fontsize=10)
+        ax.set_xlabel('Win Probability log scale', color='#64748b', fontsize=10)
         ax.tick_params(axis='y', colors='#cbd5e1', labelsize=10)
         ax.tick_params(axis='x', colors='#475569', labelsize=9)
         ax.set_title('All teams visible — log scale evens out the field', color='#64748b', fontsize=10, pad=12, loc='left')
@@ -528,7 +528,7 @@ if page == "Predictions":
                 team_rows += f"<div class='group-team-row'><span style='color:#cbd5e1;'>{flag(team)} {team}</span><span class='team-prob-badge'>{prob_str}</span></div>"
             st.markdown(f"<div class='group-card'><div class='group-title'>Group {g}</div>{team_rows}</div>", unsafe_allow_html=True)
 
-# ── PAGE 2: MATCH PREDICTOR ────────────────────────────────────────────────────
+# PAGE 2: MATCH PREDICTOR
 elif page == "Match Predictor":
     st.markdown("""
     <div style='margin-bottom: 4px;'>
@@ -537,7 +537,7 @@ elif page == "Match Predictor":
         </span>
     </div>
     <h1 style='color:#f1f5f9; margin:0 0 4px;'>Match Predictor</h1>
-    <p class='hero-sub'>Pick any two teams for a full breakdown — win odds, head-to-head history, and a stat comparison</p>
+    <p class='hero-sub'>Pick any two teams for a full breakdown of win odds, head-to-head history, and a stat comparison</p>
     <hr class='page-divider'>
     """, unsafe_allow_html=True)
 
@@ -654,7 +654,7 @@ elif page == "Match Predictor":
                     <span style='font-size:0.9rem; font-weight:700; color:{a_col}; width:70px;'>{av_fmt}</span>
                 </div>""", unsafe_allow_html=True)
 
-# ── PAGE 3: GROUP STAGE TRACKER ───────────────────────────────────────────────
+#  PAGE 3: GROUP STAGE TRACKER 
 elif page == "Group Stage Tracker":
     st.markdown(f"""
     <div style='display:flex; align-items:center; gap:12px; margin-bottom:4px;'>
@@ -664,7 +664,7 @@ elif page == "Group Stage Tracker":
         <span class='live-badge'><span class='live-dot'></span> Group Stage Underway</span>
     </div>
     <h1 style='color:#f1f5f9; margin:0 0 4px;'>Group Stage Tracker</h1>
-    <p class='hero-sub'>Results as they come in — update LIVE_RESULTS in app.py after each match</p>
+    <p class='hero-sub'>Results as they come in  update LIVE_RESULTS in app.py after each match</p>
     <hr class='page-divider'>
     """, unsafe_allow_html=True)
 
@@ -725,7 +725,7 @@ elif page == "Group Stage Tracker":
                 </div>"""
             st.markdown(f"<div class='group-card'><div class='group-title'>Group {g}</div>{team_rows}</div>", unsafe_allow_html=True)
 
-# ── PAGE 4: BRACKET ───────────────────────────────────────────────────────────
+# PAGE 4: BRACKET
 elif page == "Bracket":
     st.markdown("""
     <div style='margin-bottom: 4px;'>
@@ -734,7 +734,7 @@ elif page == "Bracket":
         </span>
     </div>
     <h1 style='color:#f1f5f9; margin:0 0 4px;'>Knockout Bracket</h1>
-    <p class='hero-sub'>Projected Round of 32 matchups based on simulated group standings — win % shown for each team</p>
+    <p class='hero-sub'>Projected Round of 32 matchups based on simulated group standings win % shown for each team</p>
     <hr class='page-divider'>
     """, unsafe_allow_html=True)
 
@@ -821,7 +821,7 @@ elif page == "Bracket":
                     {"<span style='font-size:0.7rem; color:#f59e0b; margin-left:auto;'>🏆</span>" if is_champ else ""}
                 </div>""", unsafe_allow_html=True)
 
-# ── PAGE 5: SIMULATION ────────────────────────────────────────────────────────
+# PAGE 5: SIMULATION 
 elif page == "Simulation":
     st.markdown("""
     <div style='margin-bottom: 4px;'>
@@ -830,7 +830,7 @@ elif page == "Simulation":
         </span>
     </div>
     <h1 style='color:#f1f5f9; margin:0 0 4px;'>Run Your Own Simulation</h1>
-    <p class='hero-sub'>Every run is different — the model replays the whole tournament from group stage to final</p>
+    <p class='hero-sub'>Every run is different the model replays the whole tournament from group stage to final</p>
     <hr class='page-divider'>
     """, unsafe_allow_html=True)
 
@@ -893,7 +893,7 @@ elif page == "Simulation":
             out_df['Win Probability (%)'] = out_df['Win Probability (%)'].round(1).astype(str) + '%'
             st.dataframe(out_df.head(20), height=420, use_container_width=True, hide_index=True)
 
-# ── PAGE 6: MODEL INFO ─────────────────────────────────────────────────────────
+#PAGE 6: MODEL INFO 
 elif page == "Model Info":
     st.markdown(f"""
     <div style='display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:4px;'>
